@@ -1,1 +1,0 @@
-Questo è il repository per la sincronizzazione di obsidian

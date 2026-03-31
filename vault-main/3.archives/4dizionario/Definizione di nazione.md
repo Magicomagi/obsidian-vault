@@ -1,5 +1,0 @@
----
-tag: dizionario
-date: 2023-12-11
----
-Il termine **nazione** (dal [latino](https://it.wikipedia.org/wiki/Lingua_latina "Lingua latina") _natio_, in [italiano](https://it.wikipedia.org/wiki/Lingua_italiana "Lingua italiana") «nascita») si riferisce ad una [comunità](https://it.wikipedia.org/wiki/Comunit%C3%A0 "Comunità") di [individui](https://it.wikipedia.org/wiki/Individuo "Individuo") che condividono alcune caratteristiche come il [luogo geografico](https://it.wikipedia.org/wiki/Luogo "Luogo"), la [cultura](https://it.wikipedia.org/wiki/Cultura "Cultura") (cioè la [lingua](https://it.wikipedia.org/wiki/Lingua_(linguistica) "Lingua (linguistica)"), la [religione](https://it.wikipedia.org/wiki/Religione "Religione"), la [storia](https://it.wikipedia.org/wiki/Storia "Storia") e le [tradizioni](https://it.wikipedia.org/wiki/Tradizioni "Tradizioni")), l'[etnia](https://it.wikipedia.org/wiki/Etnia "Etnia") ed, eventualmente, un [governo](https://it.wikipedia.org/wiki/Governo "Governo")

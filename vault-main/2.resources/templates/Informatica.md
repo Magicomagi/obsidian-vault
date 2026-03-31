@@ -1,4 +1,0 @@
----
-tag: informatica
-date: {{date}}
----

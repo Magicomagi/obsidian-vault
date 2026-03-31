@@ -1,4 +1,0 @@
----
-tag: inglese
-date: {{date}}
----

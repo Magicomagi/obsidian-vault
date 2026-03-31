@@ -1,4 +1,0 @@
----
-tag: chimica
-date: {{date}}
----

@@ -1,4 +1,0 @@
----
-tag: filosofia
-date: {{date}}
----

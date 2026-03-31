@@ -1,4 +1,0 @@
----
-tag: italiano
-date: {{date}}
----
