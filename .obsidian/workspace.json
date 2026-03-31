@@ -11,32 +11,13 @@
             "id": "312cc9ca3696972a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prova/Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "af249b786a4345d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prova 123.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "prova 123"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +179,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "af249b786a4345d6",
+  "active": "df8c0fbbad4417d5",
   "lastOpenFiles": [
-    "prova/Welcome.md",
     "prova 123.md",
-    "prova/README.md",
+    "prova/Welcome.md",
+    "README.md",
     "prova"
   ]
 }
