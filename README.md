@@ -1,1 +1,1 @@
-Questo è il repository per la sincronizzazione di obsidian
+Questo è il repository che utilizzo per la sincronizzazione tra dispositivi di obsidian

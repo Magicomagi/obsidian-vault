@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Sera sul viale karl johan",
       "path": "1.areas/Scuola/Arte/Sera sul viale karl johan.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Porto sepolto",
       "path": "0.projects/Porto sepolto.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
