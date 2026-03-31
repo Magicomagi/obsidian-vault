@@ -1,0 +1,4 @@
+---
+tag: arte
+date: {{date}}
+---

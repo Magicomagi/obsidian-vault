@@ -1,0 +1,4 @@
+---
+tag: storia
+date: {{date}}
+---
