@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "baac715c7c2028e7",
+    "id": "9cecf1d7476ddaac",
     "type": "split",
     "children": [
       {
-        "id": "ccf418b3210cc4f1",
+        "id": "c34a3f3f343dbd80",
         "type": "tabs",
         "children": [
           {
-            "id": "2a8d38d4ff284e02",
+            "id": "312cc9ca3696972a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0.projects/Porto sepolto.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Porto sepolto"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bfc2dcbbff0b77ad",
+    "id": "e83ce91184fc1671",
     "type": "split",
     "children": [
       {
-        "id": "2afcec770cf829bf",
+        "id": "9d51c508f23e43bc",
         "type": "tabs",
         "children": [
           {
-            "id": "492d9bcc63f794ef",
+            "id": "df8c0fbbad4417d5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,25 +44,52 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8bd9db3d70847e99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8aa061dc0a923f3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "bd5f4695b33daa12",
+    "id": "ab2321eb87c7988d",
     "type": "split",
     "children": [
       {
-        "id": "6346ce5a114ce150",
+        "id": "b9e94bcc386966fe",
         "type": "tabs",
         "children": [
           {
-            "id": "259b46f750949f77",
+            "id": "4ae16d26c113d0b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -72,24 +103,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "30d02c18ee178a53",
+            "id": "e21a5ae5ca8f2ede",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "prova/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "77dabbad48150ff5",
+            "id": "829a184dd1d1f676",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c692b65c5c538ebf",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -99,11 +146,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Tutte le proprietà"
+              "title": "All properties"
             }
           },
           {
-            "id": "64d061716fa01857",
+            "id": "164fd2a17a0da4ec",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -113,26 +160,76 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "markdown-importer:Apri importazione Markdown": false,
-      "bases:Crea nuova Base": false
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "2a8d38d4ff284e02",
-  "lastOpenFiles": []
+  "active": "df8c0fbbad4417d5",
+  "lastOpenFiles": [
+    "README.md",
+    "prova/Welcome.md",
+    "0.projects/Porto sepolto.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 7 Decameron.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 6 Decameron.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 5 Decameron.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 4 Decameron.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 3 Decameron.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 2 Decameron.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 1 Decameron.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Decameron.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/aaaaa link per interrogazione.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Umanesimo.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Ripasso per interrogazione italiano.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Petrarca.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Canzoniere.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Canzone di Bacco.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Canzone all'Italia di Francesco Petrarca.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio",
+    "3.archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 7.md",
+    "3.archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 25-26.md",
+    "3.archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 15.md",
+    "3.archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Il cortigiano.md",
+    "3.archives/Verifiche-Interrogazioni/Verifica di italiano.md",
+    "3.archives/Verifiche-Interrogazioni/Verifica di italiano su Dante.md",
+    "3.archives/Verifiche-Interrogazioni/Verifica di inglese.md",
+    "3.archives/Verifiche-Interrogazioni/Verifica di informatica funzioni.md",
+    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio",
+    "3.archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda...",
+    "3.archives/Verifiche-Interrogazioni",
+    "3.archives/Tex cheatsheet.pdf",
+    "3.archives/Libri",
+    "3.archives/4dizionario",
+    "3.archives",
+    "2.resources/Attachaments/Ink/Writing/2026.3.5 - 11.18am.writing",
+    "2.resources/Attachaments/Ink/Drawing/2026.3.5 - 11.26am.drawing",
+    "2.resources/Attachaments/Pasted image 20231115212611.jpg",
+    "2.resources/Attachaments/Pasted image 20231115212610.jpg",
+    "2.resources/Attachaments/Pasted image 20231115212609.jpg",
+    "2.resources/Attachaments/Pasted image 20231115212607.jpg",
+    "2.resources/Attachaments/Pasted image 20231115212606.jpg",
+    "2.resources/Attachaments/Pasted image 20231115100540.jpg",
+    "2.resources/Attachaments/Pasted image 20231110120543.png",
+    "2.resources/Attachaments/Pasted image 20231028200013.png",
+    "2.resources/Attachaments/Pasted image 20231028195923.png",
+    "2.resources/Attachaments/Pasted image 20231024175011.png"
+  ]
 }
