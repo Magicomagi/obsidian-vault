@@ -1,9 +1,0 @@
-{
-  "newFileLocation": "folder",
-  "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
-  "promptDelete": false,
-  "mobileToolbarCommands": [
-    "ink:create-drawing-section"
-  ]
-}

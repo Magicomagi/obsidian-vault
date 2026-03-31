@@ -1,2 +1,1 @@
-# obsidian-vault
-vault di obsidian
+Questo è il repository per la sincronizzazione di obsidian
