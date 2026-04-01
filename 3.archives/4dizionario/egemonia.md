@@ -1,5 +1,5 @@
 ---
-tag: dizionario
+tags: dizionario
 date: 2023-09-20
 ---
 1. ﻿﻿Preminenza (imposta, riconosciuta o tollerata) di uno stato nei confronti di uno o più altri.

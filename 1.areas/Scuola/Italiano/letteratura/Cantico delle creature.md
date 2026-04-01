@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-10-11
 ---
 ![[Pasted image 20231011092125.jpg]]

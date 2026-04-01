@@ -1,5 +1,5 @@
 ---
-tag: fisica
+tags: fisica
 date: 2023-11-13
 ---
 - moto circolare(velocità angolare,tangeniale, periodo, frequenza, accellerazione normale e tangenziale, moto circolare uniforme e acc. centipeta)

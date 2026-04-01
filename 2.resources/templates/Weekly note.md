@@ -1,6 +1,7 @@
 ---
-tag: weekly_notes
-date: {{date}}
+tags: weekly_notes
+date:
+  "{ date }":
 ---
 ### Quali obiettivi avevi fissato per questa settimana e li hai raggiunti? Se no, cosa ha impedito il loro raggiungimento?
 

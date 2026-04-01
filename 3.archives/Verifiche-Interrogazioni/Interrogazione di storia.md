@@ -1,5 +1,5 @@
 ---
-tag: storia
+tags: storia
 date: 2023-10-26
 ---
 1. domanda generale sui 2 capitoli(come si divide il medioevo)

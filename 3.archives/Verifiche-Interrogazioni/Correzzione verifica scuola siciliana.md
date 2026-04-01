@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-12-01
 ---
 1230-1250

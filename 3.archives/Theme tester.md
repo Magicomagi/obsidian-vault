@@ -1,6 +1,6 @@
 ---
 date: 2023-08-10
-tag: note
+tags: note
 ---
 # Paragrafo
 ## Paragrafo

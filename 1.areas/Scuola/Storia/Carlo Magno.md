@@ -1,6 +1,8 @@
 ---
 date: 2024-09-25
-tag: storia,italiano
+tags:
+  - storia
+  - italiano
 ---
 Carlo Magno (742 o 748 – 814), noto anche come **Carlo il Grande** o **Charlemagne**, è stato uno dei più importanti sovrani europei del Medioevo. È ricordato soprattutto per aver unificato gran parte dell'Europa occidentale sotto il suo dominio e per aver dato origine all'Impero carolingio, che gettò le basi per ciò che in seguito divenne il Sacro Romano Impero.
 

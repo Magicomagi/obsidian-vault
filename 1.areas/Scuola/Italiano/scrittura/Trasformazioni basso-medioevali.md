@@ -1,5 +1,5 @@
 ---
-tag: italiano storia
+tags: italiano storia
 date: 2023-09-22
 ---
 ![[Pasted image 20230922112209.jpg]]

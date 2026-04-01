@@ -1,6 +1,7 @@
 ---
-tag: monthly_notes
-date: {{date}}
+tags: monthly_notes
+date:
+  "{ date }":
 ---
 ### Quali erano i tuoi obiettivi per questo mese e sei riuscito a raggiungerli? Se no, quali ostacoli hai incontrato?
 

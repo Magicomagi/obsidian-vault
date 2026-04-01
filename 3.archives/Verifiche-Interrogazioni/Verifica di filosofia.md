@@ -1,6 +1,6 @@
 ---
 date: 2024-02-14
-tag: filosofia
+tags: filosofia
 ---
 
 **Introduzione:**

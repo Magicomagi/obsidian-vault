@@ -1,6 +1,6 @@
 ---
 date: 2024-02-13
-tag: storia
+tags: storia
 ---
 
 dalla storiografia T6 pag.197,T9 pag.201 e T12 pag.204 fare di ognuna una breve recensione in forma di articolo (massimo 1 pagina in totale)

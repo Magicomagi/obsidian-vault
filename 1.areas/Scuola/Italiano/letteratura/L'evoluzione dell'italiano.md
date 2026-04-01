@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-09-27
 ---
 L'italiano è una lingua neolatina o romanza, altre sono il francese, lo spagnolo, il rumeno, catalano, galego, tutti i dialetti italiani(toscano è quello più simile). Sono lingue le lingue che venivano parlate dal popolo.

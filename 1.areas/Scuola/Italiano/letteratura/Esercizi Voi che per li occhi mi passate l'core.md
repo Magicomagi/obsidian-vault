@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-11-15
 ---
 ## testo=voi che per li occhi

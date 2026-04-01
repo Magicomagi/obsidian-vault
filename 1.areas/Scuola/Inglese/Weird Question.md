@@ -1,5 +1,5 @@
 ---
-tag: inglese
+tags: inglese
 date: 2023-09-19
 ---
 [[Domande per conoscerci]]

@@ -1,5 +1,5 @@
 ---
-tag: inglese
+tags: inglese
 date: 2023-10-25
 ---
 - Vocabulary pg 12

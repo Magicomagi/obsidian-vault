@@ -9,7 +9,7 @@
     "editor:insert-link",
     "editor:configure-toolbar"
   ],
-  "mobilePullAction": "omnisearch:show-modal",
+  "mobilePullAction": "command-palette:open",
   "attachmentFolderPath": "2.resources/Attachaments",
   "newFileLocation": "folder",
   "newFileFolderPath": "0.projects",

@@ -1,5 +1,5 @@
 ---
-tag: fisica
+tags: fisica
 date: 2023-09-30
 ---
 ## Distanza percorsa

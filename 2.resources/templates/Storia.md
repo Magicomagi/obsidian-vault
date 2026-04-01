@@ -1,4 +1,5 @@
 ---
-tag: storia
-date: {{date}}
+tags: storia
+date:
+  "{ date }":
 ---

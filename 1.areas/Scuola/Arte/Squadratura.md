@@ -1,5 +1,7 @@
 ---
-tag: arte, disegno
+tags:
+  - arte
+  - disegno
 date: 2024-01-24
 ---
 

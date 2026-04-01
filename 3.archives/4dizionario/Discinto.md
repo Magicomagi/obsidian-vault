@@ -1,5 +1,5 @@
 ---
-tag: dizionario
+tags: dizionario
 date: 2023-10-02
 ---
 agg.

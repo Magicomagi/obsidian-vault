@@ -1,5 +1,8 @@
 ---
-tag: italiano, letteratura, petrarca
+tags:
+  - italiano
+  - letteratura
+  - petrarca
 date: 2024-03-15
 ---
 

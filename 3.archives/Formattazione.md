@@ -1,6 +1,6 @@
 ---
 date: 2023-08-03
-tag: note
+tags: note
 ---
 [[#Paragraphs]]
 [[#Headings]]

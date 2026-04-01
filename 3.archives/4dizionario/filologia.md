@@ -1,5 +1,7 @@
 ---
-tag: dizionario, italiano
+tags:
+  - dizionario
+  - italiano
 date: 2024-03-01
 ---
 [[Petrarca]] è coplui che ha iniziato la filologia

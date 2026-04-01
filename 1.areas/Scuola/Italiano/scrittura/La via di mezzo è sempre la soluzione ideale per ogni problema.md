@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-10-28
 ---
 La soluzione ideale spesso si trova al centro tra due opinioni, ma questa regola non è sempre valida. È frequente che la soluzione migliore non sia un compromesso, ma al tempo stesso, è più semplice conciliare idee diverse al centro, accelerando la ricerca di una soluzione e risparmiando tempo e risorse. 

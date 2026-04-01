@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-09-29
 ---
 - Scritto riservato alle donne dei ceti alti

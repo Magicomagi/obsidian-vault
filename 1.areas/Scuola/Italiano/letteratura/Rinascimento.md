@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2024-09-18
 ---
 [[Il rapporto tra letterato e potere+ Orlando furioso]]

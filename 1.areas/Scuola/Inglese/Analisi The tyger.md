@@ -1,5 +1,7 @@
 ---
-tag: inglese
+tags:
+  - inglese
+  - letteratura
 date: 2025-09-29
 ---
 ## Structure and Tone

@@ -1,4 +1,5 @@
 ---
-tag: arte
-date: {{date}}
+tags: arte
+date:
+  "{ date }":
 ---

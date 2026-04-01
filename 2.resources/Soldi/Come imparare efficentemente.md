@@ -1,5 +1,5 @@
 ---
-tag: note
+tags: note
 date: 2023-11-23
 ---
 [https://m.youtube.com/watch?v=Q6vEU6FPOAc](https://m.youtube.com/watch?v=Q6vEU6FPOAc)

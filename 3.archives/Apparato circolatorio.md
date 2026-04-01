@@ -1,5 +1,7 @@
 ---
-tag: chimica, biologia #
+tags:
+  - chimica
+  - biologia
 date: 2024-05-24
 ---
 

@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-07-29
 ---
 [articolo](https://www.wired.it/gadget/computer/2017/10/13/tre-leggi-regolare-intelligenza-artificiale/)

@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2024-03-04
 ---
 Si colora in 2 colori il testo:

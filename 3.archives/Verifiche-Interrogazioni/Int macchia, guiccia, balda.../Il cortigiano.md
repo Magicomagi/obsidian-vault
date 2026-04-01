@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2025-02-06
 ---
 Baldassarre Castiglione (1479–1529) fu un umanista e cortigiano italiano, celebre per il trattato **Il Libro del Cortegiano** (1528), pilastro della letteratura rinascimentale che codificò l’ideale di comportamento aristocratico. L’opera, ambientata nella corte di Urbino, riflette il passaggio dall’Umanesimo civile all’estetica cortigiana, concentrandosi sull’equilibrio tra virtù morali, eleganza e spontaneità.

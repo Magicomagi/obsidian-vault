@@ -1,5 +1,5 @@
 ---
-tag: fisica
+tags: fisica
 date: 2023-10-24
 ---
 $$\omega=\text{Velocità angolare}$$

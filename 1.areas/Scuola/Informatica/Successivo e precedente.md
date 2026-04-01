@@ -1,5 +1,7 @@
 ---
-tag: informatica, funzioni
+tags:
+  - informatica
+  - funzioni
 date: 2023-11-30
 ---
 ````c

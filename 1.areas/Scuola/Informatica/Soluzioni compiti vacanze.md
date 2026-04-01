@@ -1,5 +1,5 @@
 ---
-tag: informatica
+tags: informatica
 date: 2023-07-23
 ---
 [[Compiti delle vacanze 23-24]]

@@ -1,5 +1,7 @@
 ---
-tag: inglese, libri
+tags:
+  - inglese
+  - libri
 date: 2024-01-07
 ---
 ## Riassunto wikipedia

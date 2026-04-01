@@ -1,5 +1,9 @@
 ---
-tag: italiano, letteratura, boccaccio, petrarca
+tags:
+  - italiano
+  - letteratura
+  - boccaccio
+  - petrarca
 date: 2024-05-06
 ---
 > Movimento culturale (letterario) del Quattrocento(XV sec, '400)

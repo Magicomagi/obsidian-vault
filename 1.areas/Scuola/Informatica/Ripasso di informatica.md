@@ -1,5 +1,5 @@
 ---
-tag: informatica
+tags: informatica
 date: 2024-09-16
 ---
 1. 

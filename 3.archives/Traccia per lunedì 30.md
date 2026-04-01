@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-10-23
 ---
 #### La via di mezzo è sempre la soluzione ideale per ogni problema.

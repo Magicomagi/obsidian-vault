@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-11-21
 ---
 # domande

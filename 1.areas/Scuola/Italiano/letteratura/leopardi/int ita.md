@@ -1,5 +1,7 @@
 ---
-tag: italiano letteratura
+tags:
+  - italiano
+  - lett
 date: 2025-05-08
 ---
 ## Ugo foscolo:

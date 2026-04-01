@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-11-02
 ---
 La letteratura italiana nasce quando nasce la lingua italiana nel XIII secolo.

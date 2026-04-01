@@ -1,5 +1,5 @@
 ---
-tag: italiano, letteratura
+tags: italiano, letteratura
 date: 2024-09-19
 ---
 [Cartella drive](https://drive.google.com/drive/folders/1Mmiiyyq-eL_7pszVe3s8rdY3yMIoCC9r)

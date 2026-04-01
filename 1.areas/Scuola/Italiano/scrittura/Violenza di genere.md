@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-09-25
 ---
 La vera vittima della violenza di genere è chi la commette.

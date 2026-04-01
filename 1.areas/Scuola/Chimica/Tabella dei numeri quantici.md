@@ -1,5 +1,5 @@
 ---
-tag: chimica
+tags: chimica
 date: 2023-09-26
 ---
 | n quantico | simbolo  | numero                       | descrizione        |

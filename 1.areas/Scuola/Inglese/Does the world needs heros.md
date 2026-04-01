@@ -1,5 +1,5 @@
 ---
-tag: inglese
+tags: inglese
 date: 2024-02-05
 ---
 find 2 arguments to support (does the world need the heros) and go against it

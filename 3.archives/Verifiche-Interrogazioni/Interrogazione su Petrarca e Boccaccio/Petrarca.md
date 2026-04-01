@@ -1,6 +1,9 @@
 ---
 date: 2024-02-29
-tag: italiano, petrarca, letteratura
+tags:
+  - italiano
+  - letteratura
+  - petrarca
 ---
 Nasce nel 1304, dopo 40 rispetto a Dante
 Ha una mentailtà moderna(nuova rispetto al medioevo)

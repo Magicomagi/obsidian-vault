@@ -1,0 +1,10 @@
+formulas:
+  Untitled: tag
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - "!tag.isEmpty()"
+    order:
+      - file.name

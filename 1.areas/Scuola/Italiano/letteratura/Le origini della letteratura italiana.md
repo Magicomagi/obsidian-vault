@@ -1,5 +1,7 @@
 ---
-tag: italiano storia
+tags:
+  - italiano
+  - storia
 date: 2023-09-20
 ---
 ## Dal sistema culturale dell'alto medioevo a quello del basso medioevo

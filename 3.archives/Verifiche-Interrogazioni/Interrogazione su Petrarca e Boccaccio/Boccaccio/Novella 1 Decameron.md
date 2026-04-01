@@ -1,5 +1,5 @@
 ---
-tag: italiano, letteratura, boccaccio
+tags: italiano, letteratura, boccaccio
 date: 2024-04-11
 ---
 [[Decameron]]

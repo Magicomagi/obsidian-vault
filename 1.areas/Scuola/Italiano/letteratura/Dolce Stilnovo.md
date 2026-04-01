@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-11-09
 ---
 Nasce a firenze tra la fine del XIII e gli inizi del XIV secolo.

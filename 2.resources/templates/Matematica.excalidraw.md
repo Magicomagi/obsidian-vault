@@ -1,8 +1,8 @@
 ---
-
 excalidraw-plugin: raw
-tag: matematica
-date: {{date}}
+tags: matematica
+date:
+  "{ date }":
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

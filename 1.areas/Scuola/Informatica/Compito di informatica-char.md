@@ -1,5 +1,5 @@
 ---
-tag: informatica
+tags: informatica
 date: 2023-11-10
 ---
 ```c

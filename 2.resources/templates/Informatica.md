@@ -1,4 +1,5 @@
 ---
-tag: informatica
-date: {{date}}
+tags: informatica
+date:
+  "{ date }":
 ---

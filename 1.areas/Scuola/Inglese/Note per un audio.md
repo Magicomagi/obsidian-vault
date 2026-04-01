@@ -1,5 +1,5 @@
 ---
-tag: inglese
+tags: inglese
 date: 2023-10-25
 ---
 go to the cinema with friends, special effects

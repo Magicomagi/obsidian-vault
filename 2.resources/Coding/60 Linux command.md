@@ -1,6 +1,7 @@
 ---
 date: 2024-01-28
-tag: informatica, 
+tags:
+  - informatica
 ---
 1. ls (fa vedere i file)
 	ls -l tutti i file

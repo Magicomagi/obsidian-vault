@@ -1,5 +1,8 @@
 ---
-tag: libri, miglioramento, note
+tags:
+  - libri
+  - miglioramento
+  - note
 date: 2024-01-21
 ---
 **Deep Work**: Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.

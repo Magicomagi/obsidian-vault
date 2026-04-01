@@ -1,6 +1,6 @@
 ---
 date: 2024-03-05
-tag: storia
+tags: storia
 ---
 **Introduzione:**
 Buongiorno a tutti, oggi parleremo della Pace di Costanza, un momento cruciale nella storia che ha segnato profondamente l’Europa. Questo trattato, stipulato nel 1183, ha avuto implicazioni notevoli sia politiche che economiche, plasmando il destino di molte nazioni.

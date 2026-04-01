@@ -1,5 +1,5 @@
 ---
-tag: matematica
+tags: matematica
 date: 2023-10-24
 ---
 > Una trasformazione geometrica nel piano è una corrispondenza biunivoca che assegna ad ogni punto del piano uno e un solo punto del piano stesso

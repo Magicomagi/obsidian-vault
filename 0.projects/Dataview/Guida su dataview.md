@@ -1,5 +1,7 @@
 ---
-tag: note, dataview
+tags:
+  - note
+  - dataview
 date: 2024-07-18
 ---
 ### Concetti di Base

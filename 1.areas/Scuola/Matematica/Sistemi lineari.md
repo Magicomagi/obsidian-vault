@@ -1,7 +1,6 @@
 ---
-
 excalidraw-plugin: raw
-tag: matematica
+tags: matematica
 date: 2023-08-23
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==

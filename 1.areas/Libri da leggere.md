@@ -1,5 +1,5 @@
 ---
-tag: libri
+tags: libri
 date: 2023-08-11
 ---
 1. "The Magic of Thinking Big" di David J. Schwartz

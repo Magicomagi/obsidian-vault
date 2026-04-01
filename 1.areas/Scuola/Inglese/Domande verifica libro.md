@@ -1,5 +1,5 @@
 ---
-tag: inglese
+tags: inglese
 date: 2023-10-02
 ---
 https://it.m.wikipedia.org/wiki/Io_e_te_(romanzo)

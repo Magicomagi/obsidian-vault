@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-07-29
 ---
 [[Compiti delle vacanze 23-24]]

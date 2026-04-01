@@ -1,5 +1,5 @@
 ---
-tag: storia
+tags: storia
 date: 2023-10-03
 ---
 ## Introduzione 

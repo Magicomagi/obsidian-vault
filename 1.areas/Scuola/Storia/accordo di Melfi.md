@@ -1,5 +1,5 @@
 ---
-tag: storia
+tags: storia
 date: 2023-10-03
 ---
 - Papa riconosce come legittimi i possedimenti normanni di Roberto e di Riccardo I nel principato di Capua e Aversa

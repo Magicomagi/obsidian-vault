@@ -1,5 +1,5 @@
 ---
-tag: arte
+tags: arte
 date: 2025-09-15
 ---
 

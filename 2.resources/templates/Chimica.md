@@ -1,4 +1,5 @@
 ---
-tag: chimica
-date: {{date}}
+tags: chimica
+date:
+  "{ date }":
 ---

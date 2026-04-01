@@ -1,5 +1,5 @@
 ---
-tag: soldi
+tags: soldi
 date: 2023-10-28
 autore: Hamza-Ahmed
 ---

@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-10-16
 ---
 L'esempio deve essere concreto e espribile da tutti^[conosciuto]. Deve essere CHIARO, subito intuibile ed evidente

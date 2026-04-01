@@ -1,6 +1,7 @@
 ---
-tag: daily_notes
-date: {{date}}
+tags: daily_notes
+date:
+  "{ date }":
 ---
 - [ ] leggere
 - [ ] scrivere

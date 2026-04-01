@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2023-09-18
 ---
 Dobbiamo dimostrare a qualcuno che la nostra idea è corretta

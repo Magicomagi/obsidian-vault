@@ -1,5 +1,5 @@
 ---
-tag: libri
+tags: libri
 date: 2023-10-22
 ---
 1. Esporta le note

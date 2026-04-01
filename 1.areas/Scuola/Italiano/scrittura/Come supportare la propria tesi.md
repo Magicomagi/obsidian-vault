@@ -1,5 +1,5 @@
 ---
-tag: italiano
+tags: italiano
 date: 2024-01-13
 ---
 Analisi

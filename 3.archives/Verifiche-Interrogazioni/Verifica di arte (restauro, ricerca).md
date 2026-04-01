@@ -1,5 +1,7 @@
 ---
-tag: arte, educazione_civica
+tags:
+  - arte
+  - educazione_civica
 date: 2023-12-17
 ---
 **Ricerca, restauro, definizione bene culturale/paesaggistico, cos'è la meraviglia (video di settis)**

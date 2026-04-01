@@ -1,5 +1,5 @@
 ---
-tag: chimica
+tags: chimica
 date: 2023-09-18
 ---
 Fotosintesi clorofilliana è un processo endoergonico. Serve agli autotrofi fotosintetici

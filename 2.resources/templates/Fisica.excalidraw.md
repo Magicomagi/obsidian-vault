@@ -1,9 +1,8 @@
 ---
-
 excalidraw-plugin: parsed
-tag: fisica
-date: {{date}}
-
+tags: fisica
+date:
+  "{ date }":
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

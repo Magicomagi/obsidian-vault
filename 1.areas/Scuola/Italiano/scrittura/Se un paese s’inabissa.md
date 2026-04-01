@@ -1,5 +1,5 @@
 ---
-tag: italiano 
+tags: italiano
 date: 2023-12-11
 ---
 [Junko Terao](safari-reader://www.internazionale.it/tag/autori/junko-terao), giornalista di Internazionale

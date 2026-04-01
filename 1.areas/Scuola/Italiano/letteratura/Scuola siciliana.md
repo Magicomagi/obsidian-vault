@@ -1,5 +1,7 @@
 ---
-tag: italiano letteratura
+tags:
+  - italiano
+  - letteratura
 date: 2023-10-12
 ---
 ###### Presentazione

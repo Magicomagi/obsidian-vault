@@ -1,5 +1,7 @@
 ---
-tag: italiano, letteratura
+tags:
+  - italiano
+  - letteratura
 date: 2024-01-23
 ---
 Il monarchia:

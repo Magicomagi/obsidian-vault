@@ -1,6 +1,8 @@
 ---
 date: 2024-01-29
-tag: inglese, letteratura 
+tags:
+  - italiano
+  - letteratura
 ---
 
 

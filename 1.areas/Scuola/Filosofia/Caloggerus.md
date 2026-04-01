@@ -1,5 +1,5 @@
 ---
-tag: filosofia
+tags: filosofia
 date: 2024-02-29
 ---
 

@@ -1,5 +1,8 @@
 ---
-tag: italiano, letteratura, boccaccio
+tags:
+  - italiano
+  - letteratura
+  - boccaccio
 date: 2024-04-10
 ---
 https://view.genial.ly/66124f21d3eeb70014965387/horizontal-infographic-diagrams-zentrales-schema-mindmap

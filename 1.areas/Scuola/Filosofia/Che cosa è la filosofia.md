@@ -1,5 +1,5 @@
 ---
-tag: filosofia
+tags: filosofia
 date: 2023-09-21
 ---
 https://docs.google.com/file/d/1FVICStF6fKnQ-xwCKzkfWcKYl2U8Qrkn/edit?usp=docslist_api&filetype=mspresentation

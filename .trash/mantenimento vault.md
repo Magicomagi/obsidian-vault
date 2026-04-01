@@ -1,5 +1,5 @@
 ---
-tag: dataview
+tags: dataview
 date: 2024-07-18
 ---
 ```dataview

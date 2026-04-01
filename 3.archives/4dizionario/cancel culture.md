@@ -1,5 +1,5 @@
 ---
-tag: italiano, educazione_civica
+tags: italiano, educazione_civica
 date: 2024-01-29
 ---
 https://it.wikipedia.org/wiki/Cancel_culture

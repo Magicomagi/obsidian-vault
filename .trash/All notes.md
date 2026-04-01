@@ -1,6 +1,9 @@
 ---
 date: 2024-01-13
-tag: note, dataview
+tags:
+  - note, dataview
+  - note
+  - data
 ---
 ```dataview
 TABLE date AS Date, tag as Tag

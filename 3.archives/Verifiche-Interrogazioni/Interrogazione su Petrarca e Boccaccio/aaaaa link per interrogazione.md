@@ -1,5 +1,9 @@
 ---
-tag: italiano, letteratura, petrarca, boccaccio
+tags:
+  - italiano
+  - letteratura
+  - petrarca
+  - boccaccio
 date: 2024-05-11
 ---
 # [[Petrarca]]

@@ -1,4 +1,5 @@
 ---
-tag: inglese
-date: {{date}}
+tags: inglese
+date:
+  "{ date }":
 ---

@@ -1,5 +1,7 @@
 ---
-tag:
+tags:
+  - chimica
+  - biologia
 date: 2025-05-07
 ---
 1. Magma: è la roccia fusa presente sotto la crosta terrestre.

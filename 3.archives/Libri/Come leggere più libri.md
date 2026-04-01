@@ -1,5 +1,5 @@
 ---
-tag: libri
+tags: libri
 date: 2023-10-21
 ---
 1. Non finire i libri brutti

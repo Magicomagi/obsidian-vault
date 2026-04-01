@@ -1,6 +1,6 @@
 ---
 date: 2024-03-02
-tag: informatica
+tags: informatica
 ---
 
 **1. Account Creation:**

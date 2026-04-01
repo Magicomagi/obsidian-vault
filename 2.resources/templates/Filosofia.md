@@ -1,4 +1,5 @@
 ---
-tag: filosofia
-date: {{date}}
+tags: filosofia
+date:
+  "{ date }":
 ---

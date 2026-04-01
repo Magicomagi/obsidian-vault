@@ -1,5 +1,5 @@
 ---
-tag: filosofia
+tags: filosofia
 date: 2023-11-09
 ---
 1. quali sono le tue passioni

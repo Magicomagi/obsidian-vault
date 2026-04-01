@@ -1,5 +1,5 @@
 ---
-tag: chimica
+tags: chimica
 date: 2023-09-19
 ---
 ![[Pasted image 20230919153241.jpg | 145x100]]

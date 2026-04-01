@@ -1,5 +1,5 @@
 ---
-tag: educazione_civica, chimica
+tags: educazione_civica, chimica
 date: 2024-01-22
 ---
 Durante l'incontro pomeridiano tenuto il 18 gennaio in classe, gli informatori ci hanno spigato le diverse tipologie di traumi, ferite, fratture, ustioni, e visto come usare gli strumeti pe r rilevare la pressione:(sfigmomanometro e fonendoscopio)

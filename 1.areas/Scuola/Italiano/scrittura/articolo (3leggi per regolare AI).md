@@ -1,6 +1,6 @@
 ---
 date: 2023-08-31
-tag: italiano
+tags: italiano
 ---
 È impossibile sapere con certezza, oggi, se e quando vedremo l’avvento di una vera intelligenza artificiale: una AI, come riassunto dal filosofo Nick Bostrom nel suo saggio [_Superintelligence_](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies), _“capace di superare l’intelligenza dell’uomo sotto ogni aspetto, inclusa la creatività scientifica, la saggezza generale e le abilità sociali”_. Sul tema, gli esperti sono divisi: da una parte troviamo chi, come lo stesso Bostrom o Elon Musk, mette in guardia sui **rischi esistenziali di una cosiddetta _strong AI_** (intelligenza artificiale forte); dall’altra ci sono pensatori come Luciano Floridi, docente di Oxford, che sottolineano come [questo scenario non sia assolutamente plausibile](https://aeon.co/essays/true-ai-is-both-logically-possible-and-utterly-implausible), soprattutto se si considera come si sia ancora fermi alle intelligenze artificiali limitate (capaci di svolgere benissimo un compito, ma solo quello; che sia riconoscere i volti o [sconfiggere i campioni di Go](https://www.wired.it/gadget/computer/2016/03/09/alphago/)) senza avere la più pallida idea di come si possa passare al livello successivo.
 

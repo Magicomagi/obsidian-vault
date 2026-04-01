@@ -1,5 +1,5 @@
 ---
-tag: filosofia
+tags: filosofia
 date: 2023-10-19
 ---
 [[Eraclito di Efeso]]

@@ -1,5 +1,5 @@
 ---
-tag: arte
+tags: arte
 date: 2023-08-03
 ---
 

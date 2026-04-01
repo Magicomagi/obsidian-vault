@@ -1,5 +1,5 @@
 ---
-tag: ricette
+tags: ricette
 date: 2023-08-03
 ---
 >[!Per una persona]

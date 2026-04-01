@@ -1,5 +1,5 @@
 ---
-tag: storia
+tags: storia
 date: 2023-10-28
 ---
 - superiorità del papa su qualsiasi autorità terrena(anche l'imperatore)
