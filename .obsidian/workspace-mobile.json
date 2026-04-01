@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.areas/Scuola/Italiano/letteratura/la sofferenza di tutte le cose.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "la sofferenza di tutte le cose"
+              "title": "README"
+            }
+          },
+          {
+            "id": "0c0ab6ded7ab3367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Esplora risorse"
+          "title": "Files"
         }
       }
     ],
@@ -88,12 +103,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "markdown-importer:Apri importazione Markdown": false,
-      "bases:Crea nuova Base": false,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
@@ -103,8 +112,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5552ba097db4a674",
+  "active": "0c0ab6ded7ab3367",
   "lastOpenFiles": [
+    "2.resources/Attachaments/IMG-20250830-WA0013.jpg",
+    "README.md",
+    "2.resources/Attachaments/IMG_20230823_122112.jpg",
+    "1.areas/Scuola/Italiano/letteratura/la sofferenza di tutte le cose.md",
     "0.projects/Senza nome.md",
     "3.archives/Theme tester.md",
     "Ink/Drawing/2026.4.1 - 11.50am.drawing",
@@ -116,7 +129,6 @@
     "0.projects/Untitled 1.md",
     "0.projects/Untitled.md",
     "0.projects/Untitled.base",
-    "README.md",
     "2.resources/Attachaments/Ink/Drawing/2026.4.1 - 19.05pm.drawing",
     "2.resources/Attachaments/Ink/Drawing/2026.4.1 - 19.03pm.drawing",
     "3.archives/Verifiche-Interrogazioni/Parte seconda verifica italiano.md",
@@ -135,24 +147,17 @@
     "3.archives/Theme tester.md",
     "1.areas/Ricette/Toast al tonno.md",
     "1.areas/Scuola/Italiano/scrittura/Trasformazioni basso-medioevali.md",
-    "1.areas/Scuola/Italiano/scrittura/Tre leggi per regolare le intelligenze artificiali.md",
-    "3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Umanesimo.md",
-    "3.archives/Verifiche-Interrogazioni/Verifica di filosofia.md",
     "2.resources/Attachaments/ 2023-11-10.excalidraw.png",
     "1.areas/Scuola/Informatica/1_Rappresentazione_informazione-versione_ridotta.pdf",
     "2.resources/Attachaments/Ink/Drawing/2026.4.1 - 11.50am.drawing",
     "Ink/Drawing",
     "Ink",
-    "Ink/Drawing/2026.4.1 - 9.32am.drawing",
-    "Ink/Drawing/2026.4.1 - 11.31am.drawing",
     "2.resources/Attachaments/Pasted image 20231024175011.png",
     "2.resources/Attachaments/IMG_2895.jpeg",
     "2.resources/Attachaments/Pasted image 20231010123156.jpg",
     "2.resources/Attachaments/Pasted image 20230920102609.jpg",
     "2.resources/Attachaments/Pasted image 20231115212609.jpg",
     "2.resources/Attachaments/Pasted image 20231110120543.png",
-    "2.resources/Attachaments/Pasted image 20230922113225.jpg",
-    "2.resources/Attachaments/IMG_2894.jpeg",
-    "2.resources/Attachaments/Pasted image 20231006110322.jpg"
+    "2.resources/Attachaments/Pasted image 20230922113225.jpg"
   ]
 }
