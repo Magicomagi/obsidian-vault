@@ -1,3 +1,7 @@
 {
-  "autoFullScreen": true
+  "autoFullScreen": true,
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "slidingSidebar": true,
+  "floatingNavigation": false
 }

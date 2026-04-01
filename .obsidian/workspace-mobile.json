@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Senza nome.md",
+                "file": "3.archives/Theme tester.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Senza nome"
+              "title": "Theme tester"
             }
           }
         ]
@@ -42,20 +42,6 @@
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
-      },
-      {
-        "id": "08215c100e96005a",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-archive",
-          "title": "Tutte le proprietà"
-        }
       }
     ],
     "currentTab": 0
@@ -70,7 +56,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Senza nome.md",
+            "file": "3.archives/Theme tester.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -80,7 +66,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Riferimenti"
+          "title": "Backlinks"
         }
       },
       {
@@ -95,44 +81,31 @@
           "icon": "links-going-out",
           "title": "Outgoing links"
         }
-      },
-      {
-        "id": "a354fa533150ebd3",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "followCursor": false,
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-list",
-          "title": "Outline"
-        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "bases:Create new base": false,
+      "markdown-importer:Open format converter": true,
+      "bases:Create new base": true,
       "omnisearch:Omnisearch": false
     }
   },
   "active": "972c3e8e6d961c75",
   "lastOpenFiles": [
     "Ink/Drawing/2026.4.1 - 11.50am.drawing",
+    "3.archives/Theme tester.md",
+    "README.md",
+    "Senza nome.md",
     "Ink/Drawing",
     "Ink",
-    "Senza nome.md",
     "Ink/Drawing/2026.4.1 - 9.32am.drawing",
     "sjdlkhasdvlsahandf.md",
-    "README.md",
     "Ink/Drawing/2026.4.1 - 11.31am.drawing",
     "3.archives/4dizionario/Carattere invisibile \"⠀\".md",
     "1.areas/Scuola/Italiano/scrittura/Parafrasi \"Al cor genitl rempaira sempre amore\".md",
@@ -159,9 +132,7 @@
     "1.areas/Scuola/Storia/Carlo Magno.md",
     "1.areas/Scuola/Storia/Riassunto 1^ Unità.md",
     "1.areas/Scuola/Storia/Capitoli libri di storia",
-    "1.areas/Scuola/Storia/Crociate.md",
     "1.areas/Scuola/Storia",
-    "2.resources/Attachaments/Ink/Writing/2026.3.5 - 11.18am.writing",
     "2.resources/Attachaments/Pasted image 20231024175011.png",
     "2.resources/Attachaments/IMG_2895.jpeg",
     "2.resources/Attachaments/Pasted image 20231010123156.jpg",

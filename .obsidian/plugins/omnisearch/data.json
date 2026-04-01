@@ -25,7 +25,7 @@
   "simpleSearch": false,
   "tokenizeUrls": false,
   "fuzziness": "1",
-  "weightBasename": 10,
+  "weightBasename": 6.5,
   "weightDirectory": 7,
   "weightH1": 6,
   "weightH2": 5,

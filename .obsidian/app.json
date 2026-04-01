@@ -8,5 +8,14 @@
     "editor:toggle-blockquote",
     "editor:insert-link",
     "editor:configure-toolbar"
-  ]
+  ],
+  "mobilePullAction": "omnisearch:show-modal",
+  "attachmentFolderPath": "2.resources/Attachaments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0.projects",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "foldHeading": false,
+  "spellcheck": false,
+  "tabSize": 2
 }
