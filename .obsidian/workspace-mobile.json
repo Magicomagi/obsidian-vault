@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e9fa103e80787968",
+        "id": "293e41ca6f74c411",
         "type": "tabs",
         "children": [
           {
-            "id": "cd88e9f4148498ee",
+            "id": "1af8f3f7cfda0056",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "0c0ab6ded7ab3367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +52,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1.areas/Scuola/Italiano/letteratura/la sofferenza di tutte le cose.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -90,16 +70,15 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1.areas/Scuola/Italiano/letteratura/la sofferenza di tutte le cose.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
           "icon": "links-going-out",
-          "title": "Outgoing links"
+          "title": "Collegamenti in uscita"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -112,10 +91,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c0ab6ded7ab3367",
+  "active": "1af8f3f7cfda0056",
   "lastOpenFiles": [
-    "2.resources/Attachaments/IMG-20250830-WA0013.jpg",
     "README.md",
+    "2.resources/Attachaments/IMG-20250830-WA0013.jpg",
     "2.resources/Attachaments/IMG_20230823_122112.jpg",
     "1.areas/Scuola/Italiano/letteratura/la sofferenza di tutte le cose.md",
     "0.projects/Senza nome.md",
