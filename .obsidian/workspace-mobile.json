@@ -34,6 +34,16 @@
               "icon": "lucide-file",
               "title": "Senza nome"
             }
+          },
+          {
+            "id": "98c191e5b14a396e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
           }
         ],
         "currentTab": 1
@@ -89,6 +99,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "0.projects/Senza nome.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
