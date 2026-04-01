@@ -40,7 +40,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Esplora risorse"
         }
       }
     ],
@@ -66,7 +66,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "Riferimenti"
         }
       },
       {
@@ -88,6 +88,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "markdown-importer:Apri importazione Markdown": false,
+      "bases:Crea nuova Base": false,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
@@ -99,6 +105,9 @@
   },
   "active": "5552ba097db4a674",
   "lastOpenFiles": [
+    "0.projects/Senza nome.md",
+    "3.archives/Theme tester.md",
+    "Ink/Drawing/2026.4.1 - 11.50am.drawing",
     "Untitled",
     "1.areas/Scuola/Chimica/Ciclo litogenetico.md",
     "0.projects/Table.base",
