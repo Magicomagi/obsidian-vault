@@ -3,8 +3,7 @@ tag: italiano
 date: 2023-11-10
 ---
 [[Dolce Stilnovo]]
-![[Guido Guinizelli - Al cor gentil rempaira sempre.pdf]] 
-In un cuore gentile, l'amore risiede costantemente, come l'uccello tra la vegetazione in una foresta verde. L'amore non è mai esistito prima di un cuore gentile, né un cuore gentile prima dell'amore, perché sono intrinsecamente legati alla natura. Proprio come il sole ha brillato immediatamente quando è apparso, e non c'era nulla prima di lui, l'amore trova il suo posto nella gentilezza proprio come il calore trova il suo posto nella chiarezza del fuoco.
+![[Guido Guinizelli - Al cor gentil rempaira sempre.pdf]In un cuore gentile, l'amore risiede costantemente, come l'uccello tra la vegetazione in una foresta verde. L'amore non è mai esistito prima di un cuore gentile, né un cuore gentile prima dell'amore, perché sono intrinsecamente legati alla natura. Proprio come il sole ha brillato immediatamente quando è apparso, e non c'era nulla prima di lui, l'amore trova il suo posto nella gentilezza proprio come il calore trova il suo posto nella chiarezza del fuoco.
 L'amore si accende nel cuore gentile come la virtù si trova in una pietra preziosa, che non riceve il suo valore da una stella fino a quando il sole non l'ha resa preziosa. Allo stesso modo, il cuore gentile, creato dalla natura, viene amato da una donna come una stella ama la sua luce. L'amore risiede nel cuore gentile per la stessa ragione per cui il fuoco risiede sulla cima di un focolare: splende nel suo piacere, chiaro e sottile, e non può essere in alcun modo diverso, così forte è il suo ardore.
 La natura malvagia contrasta l'amore come l'acqua fa con il fuoco caldo, ma l'amore trova la sua via nel cuore gentile, come l'anima del ferro trova la sua strada nella miniera.
 
