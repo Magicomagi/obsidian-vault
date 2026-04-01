@@ -3,6 +3,7 @@
     "editor:undo",
     "editor:redo",
     "ink:create-drawing-section",
+    "omnisearch:show-modal",
     "editor:attach-file",
     "editor:toggle-code",
     "editor:toggle-blockquote",
