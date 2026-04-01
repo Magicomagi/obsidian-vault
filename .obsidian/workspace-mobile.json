@@ -40,7 +40,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Esplora risorse"
         }
       }
     ],
@@ -66,7 +66,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "Riferimenti"
         }
       },
       {
@@ -98,8 +98,9 @@
   },
   "active": "972c3e8e6d961c75",
   "lastOpenFiles": [
-    "Ink/Drawing/2026.4.1 - 11.50am.drawing",
+    "0.projects/Senza nome.md",
     "3.archives/Theme tester.md",
+    "Ink/Drawing/2026.4.1 - 11.50am.drawing",
     "README.md",
     "Senza nome.md",
     "Ink/Drawing",
