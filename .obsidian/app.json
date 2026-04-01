@@ -1,1 +1,12 @@
-{}
+{
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "ink:create-drawing-section",
+    "editor:attach-file",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:configure-toolbar"
+  ]
+}
