@@ -19,7 +19,7 @@ Nelle impostazioni di OpenClaw, sostituisci:
 
 ## Esecuzione persistente (systemd user)
 ~/.config/systemd/user/gemini-rotator.service
-```
+```ini
 [Unit]
 Description=Gemini API Key Rotator
 
@@ -29,7 +29,10 @@ Restart=always
 
 [Install]
 WantedBy=default.target
+```
 
 
+```bash
 systemctl --user enable --now gemini-rotator.service
 ```
+
