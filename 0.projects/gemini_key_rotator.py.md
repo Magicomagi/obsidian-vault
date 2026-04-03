@@ -13,7 +13,7 @@ LISTEN_PORT = 8080
 GEMINI_BASE = "https://generativelanguage.googleapis.com"
 
 API_KEYS = [
-    "AIza_ACCOUNT_1",
+    "AIzaSyA3WGbixiv9y8zLfugoPDnhi7jmjAyKdB0",
     "AIza_ACCOUNT_2",
     "AIza_ACCOUNT_3",
     "AIza_ACCOUNT_4",
