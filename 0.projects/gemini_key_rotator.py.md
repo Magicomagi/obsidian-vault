@@ -14,7 +14,7 @@ GEMINI_BASE = "https://generativelanguage.googleapis.com"
 
 API_KEYS = [
     "AIzaSyA3WGbixiv9y8zLfugoPDnhi7jmjAyKdB0",
-    "AIza_ACCOUNT_2",
+    "AIzaSyDvB9DZZtZts39tOlcBbW56aHBbJ8jMvfs",
     "AIza_ACCOUNT_3",
     "AIza_ACCOUNT_4",
     "AIza_ACCOUNT_5",
