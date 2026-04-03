@@ -17,8 +17,6 @@ API_KEYS = [
     "AIzaSyDvB9DZZtZts39tOlcBbW56aHBbJ8jMvfs",
     "AIzaSyDt6Xd2fpBd40fS0jzQ8OO5LJgnOcX7egE",
     "AIzaSyAoxITqqg9s0s5b1k2Hw0OilsAp49qiCb4",
-    "AIza_ACCOUNT_5",
-    "AIza_ACCOUNT_6",
 ]
 
 current_index = 0
