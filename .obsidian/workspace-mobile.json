@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "dc9b9bfa2d0508b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.projects/gemini_key_rotator.py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gemini_key_rotator.py"
+            }
+          },
+          {
             "id": "98c191e5b14a396e",
             "type": "leaf",
             "state": {
@@ -137,6 +151,7 @@
   },
   "active": "e7f7b4cf598b06b3",
   "lastOpenFiles": [
+    "0.projects/gemini_key_rotator.py.md",
     "0.projects/Ciclatore di chiavi gemini.md",
     "0.projects/OpenClaw e Ollama locali in 27 minuti - YouTube.md",
     "0.projects/Senza nome.md",
@@ -170,7 +185,6 @@
     "1.areas/Scuola/Italiano/scrittura/testo argomentativo 3 leggi per regolare AI.md",
     "1.areas/Scuola/Inglese/The war of the worlds.md",
     "3.archives/Theme tester.md",
-    "1.areas/Ricette/Toast al tonno.md",
     "2.resources/Attachaments/ 2023-11-10.excalidraw.png",
     "1.areas/Scuola/Informatica/1_Rappresentazione_informazione-versione_ridotta.pdf",
     "2.resources/Attachaments/Ink/Drawing/2026.4.1 - 11.50am.drawing",
