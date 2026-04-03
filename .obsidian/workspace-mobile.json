@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0.projects/Ciclatore di chiavi gemini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Ciclatore di chiavi gemini"
             }
           },
           {
-            "id": "4266c1b26542f792",
+            "id": "d915d1387a92f4bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,6 +52,20 @@
           "icon": "lucide-folder-closed",
           "title": "Esplora risorse"
         }
+      },
+      {
+        "id": "777fd3040a4b0d89",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Tutte le proprietà"
+        }
       }
     ],
     "currentTab": 0
@@ -67,8 +80,9 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "0.projects/Ciclatore di chiavi gemini.md",
             "collapseAll": true,
-            "extraContext": true,
+            "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": true,
             "searchQuery": "",
@@ -85,7 +99,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0.projects/gemini_key_rotator.py.md",
+            "file": "0.projects/Ciclatore di chiavi gemini.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -98,22 +112,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "markdown-importer:Apri importazione Markdown": false,
-      "bases:Crea nuova Base": false,
-      "omnisearch:Omnisearch": false
+      "switcher:Apri selezione rapida": true,
+      "graph:Apri vista grafo": true,
+      "templates:Inserisci modello": true,
+      "command-palette:Apri riquadro comandi": true,
+      "markdown-importer:Apri importazione Markdown": true,
+      "bases:Crea nuova Base": true,
+      "omnisearch:Omnisearch": true
     }
   },
-  "active": "4266c1b26542f792",
+  "active": "1af8f3f7cfda0056",
   "lastOpenFiles": [
-    "0.projects/OpenClaw e Ollama locali in 27 minuti - YouTube.md",
+    "0.projects/gemini_rotator.py.md",
     "0.projects/Ciclatore di chiavi gemini.md",
-    "0.projects/gemini_key_rotator.py.md",
-    "0.projects/Senza nome.md",
+    "0.projects/OpenClaw e Ollama locali in 27 minuti - YouTube.md",
+    "0.projects/How to win friends and influence people.md",
+    "0.projects/Come usare Claude Code GRATIS per sempre (installazione di Ollama) - YouTube.md",
     "README.md",
+    "1.areas/Ricette/Pasta al salmone affumicato e ricotta.md",
+    "0.projects/Senza nome.md",
     "2.resources/Attachaments/IMG-20250830-WA0013.jpg",
     "2.resources/Attachaments/IMG_20230823_122112.jpg",
     "1.areas/Scuola/Italiano/letteratura/la sofferenza di tutte le cose.md",
@@ -140,9 +157,6 @@
     "1.areas/Scuola/Italiano/letteratura/Stilnovo.md",
     "1.areas/Scuola/Informatica/Successivo e precedente.md",
     "1.areas/Scuola/Chimica/Tabella dei numeri quantici.md",
-    "1.areas/Scuola/Italiano/scrittura/testo argomentativo 3 leggi per regolare AI.md",
-    "1.areas/Scuola/Inglese/The war of the worlds.md",
-    "3.archives/Theme tester.md",
     "2.resources/Attachaments/ 2023-11-10.excalidraw.png",
     "1.areas/Scuola/Informatica/1_Rappresentazione_informazione-versione_ridotta.pdf",
     "2.resources/Attachaments/Ink/Drawing/2026.4.1 - 11.50am.drawing",

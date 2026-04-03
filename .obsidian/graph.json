@@ -1,15 +1,30 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:1.areas/Scuola  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:3.archives/Verifiche-Interrogazioni  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": 0.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 1.4255612200074732,
+  "close": false
 }

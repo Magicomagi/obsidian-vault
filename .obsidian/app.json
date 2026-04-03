@@ -8,6 +8,7 @@
     "editor:toggle-code",
     "editor:toggle-blockquote",
     "editor:insert-link",
+    "bases:new-file",
     "editor:configure-toolbar"
   ],
   "mobilePullAction": "command-palette:open",

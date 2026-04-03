@@ -1,6 +1,7 @@
 {
   "pinned": [
     "omnisearch:show-modal",
-    "insert-template"
+    "insert-template",
+    "graph:open"
   ]
 }

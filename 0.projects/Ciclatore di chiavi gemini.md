@@ -4,7 +4,7 @@ tags:
   - informatica
 date: 2026-04-03
 ---
-[[gemini_key_rotator.py]]
+[[gemini_rotator.py]]
 
 
 Configurazione OpenClaw
