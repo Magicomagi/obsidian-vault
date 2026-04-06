@@ -1,0 +1,5 @@
+
+"smart_sources:1.areas/Ricette/avena.md": {"path":"1.areas/Ricette/avena.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1lxapcc","at":1775461758739},"class_name":"SmartSource","last_import":{"mtime":1775203781703,"size":107,"at":1775461758740,"hash":"1lxapcc"},"blocks":{"#---frontmatter---":[1,4],"#":[5,6]},"outlinks":[],"metadata":{"tags":["#ricette"],"date":"2023-08-03"},"task_lines":[],"tasks":{},"codeblock_ranges":[]},"smart_blocks:1.areas/Ricette/avena.md#---frontmatter---": {"path":null,"last_embed":{"hash":null},"embeddings":{},"text":null,"length":0,"last_read":{"hash":"5t10bo","at":1775461758739},"key":"1.areas/Ricette/avena.md#---frontmatter---","lines":[1,4],"size":38,"outlinks":[],"class_name":"SmartBlock"},
+"smart_blocks:1.areas/Ricette/avena.md#": {"path":null,"last_embed":{"hash":null},"embeddings":{},"text":null,"length":0,"last_read":{"hash":"ddudv8","at":1775461758739},"key":"1.areas/Ricette/avena.md#","lines":[5,6],"size":68,"outlinks":[],"class_name":"SmartBlock"},
+"smart_blocks:1.areas/Ricette/avena.md#---frontmatter---": null,
+"smart_blocks:1.areas/Ricette/avena.md#": null,

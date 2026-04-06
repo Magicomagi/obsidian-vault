@@ -1,0 +1,5 @@
+
+"smart_sources:0.projects/Porto sepolto.md": {"path":"0.projects/Porto sepolto.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1a58jep","at":1775461760317},"class_name":"SmartSource","last_import":{"mtime":1775203781611,"size":174,"at":1775461760318,"hash":"1a58jep"},"blocks":{"#---frontmatter---":[1,6],"#":[7,7]},"outlinks":[],"metadata":{"tags":["#italiano","#letteratura"],"date":"2026-03-11"},"task_lines":[],"tasks":{},"codeblock_ranges":[]},"smart_blocks:0.projects/Porto sepolto.md#---frontmatter---": {"path":null,"last_embed":{"hash":null},"embeddings":{},"text":null,"length":0,"last_read":{"hash":"psunf5","at":1775461760317},"key":"0.projects/Porto sepolto.md#---frontmatter---","lines":[1,6],"size":59,"outlinks":[],"class_name":"SmartBlock"},
+"smart_blocks:0.projects/Porto sepolto.md#": {"path":null,"last_embed":{"hash":null},"embeddings":{},"text":null,"length":0,"last_read":{"hash":"1mt949a","at":1775461760317},"key":"0.projects/Porto sepolto.md#","lines":[7,7],"size":111,"outlinks":[],"class_name":"SmartBlock"},
+"smart_blocks:0.projects/Porto sepolto.md#---frontmatter---": null,
+"smart_blocks:0.projects/Porto sepolto.md#": null,
