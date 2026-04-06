@@ -6,18 +6,18 @@
     "omnisearch:show-modal",
     "editor:attach-file",
     "editor:toggle-code",
-    "editor:toggle-blockquote",
     "editor:insert-link",
     "bases:new-file",
     "editor:configure-toolbar"
   ],
   "mobilePullAction": "command-palette:open",
-  "attachmentFolderPath": "2.resources/Attachaments",
+  "attachmentFolderPath": "02-resources/Attachaments",
   "newFileLocation": "folder",
-  "newFileFolderPath": "0.projects",
+  "newFileFolderPath": "00-projects",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "foldHeading": false,
   "spellcheck": false,
-  "tabSize": 2
+  "tabSize": 2,
+  "trashOption": "local"
 }
