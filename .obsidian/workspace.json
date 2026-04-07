@@ -11,10 +11,15 @@
             "id": "48daa9cf245d781b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-projects/Ciclatore di chiavi gemini.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ciclatore di chiavi gemini"
             }
           }
         ]
@@ -181,6 +186,9 @@
   },
   "active": "48daa9cf245d781b",
   "lastOpenFiles": [
+    "00-projects/Dataview/Guida su dataview.md",
+    "00-projects/Ciclatore di chiavi gemini.md",
+    "00-projects/OpenClaw e Ollama locali in 27 minuti - YouTube.md",
     "gemini_rotator.py",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 7 Decameron.md",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 6 Decameron.md",
@@ -206,8 +214,6 @@
     "03-archives/4dizionario/lasciti.md",
     "03-archives/4dizionario/flow.md",
     "03-archives/4dizionario/ingerenza.md",
-    "03-archives/4dizionario/filologia.md",
-    "03-archives/4dizionario/elitario.md",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio",
     "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda...",
     "03-archives/Verifiche-Interrogazioni",
@@ -216,7 +222,6 @@
     "03-archives/4dizionario",
     "03-archives",
     "02-resources/templates",
-    "02-resources/Soldi",
     "02-resources/Attachaments/Pasted image 20231115212611.jpg",
     "02-resources/Attachaments/Pasted image 20231115212610.jpg",
     "02-resources/Attachaments/Pasted image 20231115212609.jpg",
