@@ -11,15 +11,12 @@
             "id": "171a3ecb58e2c2ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "02-resources/Attachaments/ 2023-11-10.excalidraw.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "2023-11-10.excalidraw"
             }
           }
         ]
@@ -113,27 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prova/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
-            }
-          },
-          {
-            "id": "829a184dd1d1f676",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "tag"
+              "title": "Outgoing links"
             }
           },
           {
@@ -165,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +163,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "171a3ecb58e2c2ae",
+  "active": "e21a5ae5ca8f2ede",
   "lastOpenFiles": [
+    "02-resources/Attachaments/ 2023-11-10.excalidraw.png",
+    "README.md",
     "00-projects/OpenClaw e Ollama locali in 27 minuti - YouTube.md",
     "01-areas/Libri da leggere.md",
     "00-projects/Dataview/Guida su dataview.md",
@@ -193,7 +175,6 @@
     "00-projects/How to win friends and influence people.md",
     "00-projects/Porto sepolto.md",
     "00-projects/Table.base",
-    "README.md",
     "gemini_rotator.py",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 7 Decameron.md",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 6 Decameron.md",
@@ -213,7 +194,6 @@
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio",
     "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 7.md",
     "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 25-26.md",
-    "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 15.md",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio",
     "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda...",
     "03-archives/Verifiche-Interrogazioni",
