@@ -8,4 +8,4 @@ autore: Hamza-Ahmed
 
 
 COME TROVARLI(cold calling, cold emails, video audits linkedin outreach instagram outreach…(usare quello che rispecchia di più la nostra personalità )
-![[Pasted image 20231028195923.png]]
+![](https://i.imgur.com/nVVASpB.png)
