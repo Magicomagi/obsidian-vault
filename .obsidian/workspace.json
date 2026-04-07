@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9938c2b1e52bd7a8",
+        "id": "6b3db3bb39266b56",
         "type": "tabs",
         "children": [
           {
-            "id": "48daa9cf245d781b",
+            "id": "171a3ecb58e2c2ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-areas/Libri da leggere.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Libri da leggere"
+              "title": "New tab"
             }
           }
         ]
@@ -183,13 +178,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "48daa9cf245d781b",
+  "active": "171a3ecb58e2c2ae",
   "lastOpenFiles": [
+    "00-projects/OpenClaw e Ollama locali in 27 minuti - YouTube.md",
+    "01-areas/Libri da leggere.md",
     "00-projects/Dataview/Guida su dataview.md",
     "00-projects/Ciclatore di chiavi gemini.md",
     "00-projects/Come usare Claude Code GRATIS per sempre (installazione di Ollama) - YouTube.md",
     "00-projects/How to win friends and influence people.md",
-    "00-projects/OpenClaw e Ollama locali in 27 minuti - YouTube.md",
     "00-projects/Porto sepolto.md",
     "00-projects/Table.base",
     "README.md",
@@ -213,7 +209,6 @@
     "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 7.md",
     "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 25-26.md",
     "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 15.md",
-    "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Il cortigiano.md",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio",
     "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda...",
     "03-archives/Verifiche-Interrogazioni",
