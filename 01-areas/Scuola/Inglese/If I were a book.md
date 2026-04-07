@@ -2,7 +2,7 @@
 tags: inglese
 date: 2023-10-09
 ---
-![[Pasted image 20231010085851.png]]
+![](https://i.imgur.com/jjQf4or.jpeg)
 If I were a book I would b dan unknown book because I hope to not be as someone else.
 The main theme if I wrote a book would be a story of a basketball player who is on a journey to get as good as he can possibly get, trying to become pro.
 The story that I'd tell would be joyful but also deep,  where te main character get reward but also moment of reflection.

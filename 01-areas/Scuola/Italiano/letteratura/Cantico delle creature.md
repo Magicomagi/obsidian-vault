@@ -2,7 +2,7 @@
 tags: italiano
 date: 2023-10-11
 ---
-![[Pasted image 20231011092125.jpg]]
+![](https://i.imgur.com/36bVPSL.jpeg)
 Tutto ciò che è fuori è pericoloso in quanto c'è la tentazione perchè c'è il demonio
 Francesco ha una visione coordiale della natura, loda la natura, in quanto è fatta da Dio.
 Si segue la volontà di Dio seguendo le creature= sopportare sofferenze e malattie con umiltà^[da humus=terra]

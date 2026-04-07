@@ -7,7 +7,7 @@ date: 2023-11-15
 - trovare termini stilnovisti, guininzillani di cavalcanit sia concetti che parole
 - cercare elementi cavacantiani(amore come tragico)
 
-![[Pasted image 20231115100540.jpg]]
+![](https://i.imgur.com/2Div7UN.jpeg)
 
 ### parafrasi
 Voi che per mezzo degli occhi mi trafiggeste il cuore

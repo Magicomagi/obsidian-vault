@@ -2,7 +2,7 @@
 tags: italiano
 date: 2023-10-10
 ---
-![[Pasted image 20231010123156.jpg]]
+![](https://i.imgur.com/Uo8lYzA.jpeg)
 
 ---
 Il testo descrive l'origine del genere della lauda, una forma di espressione religiosa, nel 1267 a Siena. Fu fondata una confraternita chiamata laudesi, guidata dal frate domenicano Ambrogio Sansedoni, il cui scopo principale era comporre lodi in lingua volgare. Il termine "lauda" deriva dal latino "laudate," che significa "lodate," spesso utilizzato nei salmi liturgici.
