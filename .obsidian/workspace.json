@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-projects/Dataview/Guida su dataview.md",
+                "file": "01-areas/Libri da leggere.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Guida su dataview"
+              "title": "Libri da leggere"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "48daa9cf245d781b",
   "lastOpenFiles": [
+    "00-projects/Dataview/Guida su dataview.md",
     "00-projects/Ciclatore di chiavi gemini.md",
     "00-projects/Come usare Claude Code GRATIS per sempre (installazione di Ollama) - YouTube.md",
     "00-projects/How to win friends and influence people.md",
@@ -192,7 +193,6 @@
     "00-projects/Porto sepolto.md",
     "00-projects/Table.base",
     "README.md",
-    "00-projects/Dataview/Guida su dataview.md",
     "gemini_rotator.py",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 7 Decameron.md",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 6 Decameron.md",
