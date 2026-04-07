@@ -160,8 +160,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "icon": "lucide-ghost",
+              "title": "outline"
             }
           }
         ],
@@ -174,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
