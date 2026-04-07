@@ -148,7 +148,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01-areas/Libri da leggere.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -170,8 +169,10 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "e2550eda733c5989",
+  "active": "5552ba097db4a674",
   "lastOpenFiles": [
+    "01-areas/Libri da leggere.md",
+    "02-resources/Clippings/Untitled.md",
     "01-areas/Ricette/Pasta al salmone affumicato e ricotta.md",
     "01-areas/Ricette/Pancakes Musta.md",
     "00-projects/Table.base",
@@ -182,9 +183,8 @@
     "00-projects/Porto sepolto.md",
     "00-projects/OpenClaw e Ollama locali in 27 minuti - YouTube.md",
     "00-projects/Ciclatore di chiavi gemini.md",
-    "01-areas/Libri da leggere.md",
     "Clippings/lautrec museo d'orsay - Cerca con Google.md",
-    "Clippings",
+    "02-resources/Clippings",
     "0.projects/gemini_rotator.py.md",
     "00-projects/How to win friends and influence people.md",
     "00-projects/Come usare Claude Code GRATIS per sempre (installazione di Ollama) - YouTube.md",
@@ -206,7 +206,6 @@
     "03-archives/Verifiche-Interrogazioni/Parte seconda verifica italiano.md",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Petrarca.md",
     "01-areas/Scuola/Fisica/pg 240.md",
-    "02-resources/Soldi/Podcast.md",
     "02-resources/Attachaments/ 2023-11-10.excalidraw.png",
     "01-areas/Scuola/Informatica/1_Rappresentazione_informazione-versione_ridotta.pdf",
     "02-resources/Attachaments/Ink/Drawing/2026.4.1 - 11.50am.drawing",
