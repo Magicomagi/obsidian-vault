@@ -39,8 +39,8 @@ tags:
 ## Informatica
 [[25_Esercizi_in_laboratorio.pdf]]
 ## Fisica
-![[IMG_2888.jpeg]]
-![[IMG_2891.jpeg]]
+![](https://i.imgur.com/LKaB865.jpeg)
+![](https://i.imgur.com/obNC8wW.jpeg)
 ## Matematica
 - Sistemi lineari (almeno 2 esercizi per pagina)[[Sistemi lineari]]: 
 	- da pag. 699 a pag. 706, da pag. 711 a pag. 714, pag. 717, pag. 720 pag. 725.

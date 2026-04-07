@@ -15,7 +15,7 @@ definisce l'energia dellelettrone
 
 #### Numero quantico secondario "$l$"
 Uno stesso livello energetico è formato da sotto livelli($\text{ s, p, d, f }$) con diverse forme.
-![[Pasted image 20230925084812.png | 250x250]]
+![Sottolivelli](https://i.imgur.com/ZaStMEy.png)
 
 #### Numero quantico magnetico "$m$"
 deriva dal fatto che esso determina le proprietà dell' atomo quando è sottoposto a un campo magnetico esterno

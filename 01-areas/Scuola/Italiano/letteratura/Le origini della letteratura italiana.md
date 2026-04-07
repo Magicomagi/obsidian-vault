@@ -27,7 +27,7 @@ Si passa da una cultura pagana a una completamente culturale, cambia completamen
 2. Il tempo viene percepito come un evento dopo l'altro. Tutte le storie medievali partono dalla creazione al giudizio universale. Concezione del tempo **Rettilinea e teologica**
 3. La concezione dell'universo è unitaria^[spiegazioni universali e complessiva] ordinata e gerarchica, perché è il riflesso del suo creatore
 4. La natura viene interpretata simbolicamente 
-![[Pasted image 20230920100107.jpg]]
+![](https://i.imgur.com/ZT7O6Gu.jpeg)
 
 >^alcuni pregano=monaci(oratores), difendono le anime, conduce le anime alla salvezza
 > ^quelli che combattono=nobili(bellatores)
@@ -40,8 +40,8 @@ Se un elemento della "trinità" cambia, c'è qualcosa che non va.
 Gli uomini del medioevo vedono qualsiasi cosa con un significato nascosto^[allegoria] (bene o male). Tutti i testi sacri hanno sempre 1 significato letterale e poi altri 3 significati diversi. 
 ^af3391
 
-![[Pasted image 20230920102825.jpg]]
-![[Pasted image 20230920102609 1.jpg]]
+![](https://i.imgur.com/CuzEqJP.jpeg)
+![](https://i.imgur.com/8Khpmk5.jpeg)
 
 ### Le trasformazioni alto-medioevali 3
 ##### Cultura cristiana e cultura classica

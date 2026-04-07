@@ -8,10 +8,10 @@ date: 2023-10-24
 Conservano le distanze e trasformano figure geometriche in figure congruenti
 
 ## Simmetria assiale
-![[Pasted image 20231024173342.png | 200x200]]
+![Simmetria assiale](https://i.imgur.com/rezQjtC.png)
 
 ## Simmetria rispetto a un punto(centrale)
-![[Pasted image 20231024173531.jpg | 200x200]]
+![Simmetria centrale](https://i.imgur.com/z2dD1Cl.jpeg)
 
 # Traslazioni
 ## Equazione della traslazione
@@ -23,4 +23,4 @@ $$\begin{cases}
 ## Translazione e grafico delle funzioni
 Dato il grafico di una funzione $y = f(x)$, mediante una traslazione di vettore $\vec{v}$ otteniamo il grafico di una nuova funzione $y=f'(x)$. Diciamo anche che la funzione $f'l$, immagine di $f$ nella traslazione, è la funzione traslata. Si può dimostrare che l’espressione della funzione traslata, scritta utilizzando l’espressione di $f(x)$ e le componenti di $\vec{v} (a; b)$, è:
 $$y=f(x-a)+b$$
-![[Pasted image 20231024175011.png | 200x200]]
+![Traslazione](https://i.imgur.com/ZLlNfOd.png)

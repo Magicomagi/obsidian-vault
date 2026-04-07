@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c34a3f3f343dbd80",
+        "id": "bba83beb28aae031",
         "type": "tabs",
         "children": [
           {
-            "id": "312cc9ca3696972a",
+            "id": "d382641d025ec372",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -94,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02-resources/Attachaments/ 2023-11-10.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for  2023-11-10.excalidraw"
             }
           },
           {
@@ -112,27 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prova/Welcome.md",
+                "file": "02-resources/Attachaments/ 2023-11-10.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
-            }
-          },
-          {
-            "id": "829a184dd1d1f676",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "tag"
+              "title": "Outgoing links from  2023-11-10.excalidraw"
             }
           },
           {
@@ -148,32 +130,15 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "164fd2a17a0da4ec",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
@@ -183,53 +148,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "312cc9ca3696972a",
+  "active": "4ae16d26c113d0b1",
   "lastOpenFiles": [
-    "ei(vliasfjhvliajdf.md",
-    "1.areas/Scuola/Arte/Sera sul viale karl johan.md",
-    "1.areas/Scuola/Arte/Ricerca S. Maria Assunta di Piacenza.md",
-    "1.areas/Scuola/Arte/confronto arte.md",
-    "1.areas/Scuola/Arte/Biblografia e sitografia della Cattedrale di S. Maria Assunta, Piacenza.md",
-    "1.areas/Scuola/Arte/Bernini.md",
-    "2.resources/templates/Arte.md",
-    "2.resources/Coding/Vim cheatsheet.md",
-    "2.resources/Coding/Liste in python.md",
-    "2.resources/Coding/Indexing.md",
-    "2.resources/Coding/60 Linux command.md",
-    "0.projects/Porto sepolto 1.md",
-    "0.projects/Porto sepolto.md",
-    "vault-main/README.md",
-    "vault-main/Porto sepolto.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 7 Decameron.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 6 Decameron.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 5 Decameron.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 4 Decameron.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 3 Decameron.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 2 Decameron.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 1 Decameron.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Decameron.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/aaaaa link per interrogazione.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Umanesimo.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Ripasso per interrogazione italiano.md",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio",
-    "vault-main/3.archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda...",
-    "vault-main/3.archives/Verifiche-Interrogazioni",
-    "vault-main/3.archives/Tex cheatsheet.pdf",
-    "vault-main/3.archives/Libri",
-    "vault-main/3.archives/4dizionario",
-    "vault-main/3.archives",
-    "vault-main/2.resources/templates",
-    "vault-main/2.resources/Soldi",
-    "vault-main/2.resources/Attachaments/ 2023-11-10.excalidraw.png",
-    "2.resources/Attachaments/Pasted image 20231115212611.jpg",
-    "2.resources/Attachaments/Pasted image 20231115212610.jpg",
-    "2.resources/Attachaments/Pasted image 20231115212609.jpg",
-    "2.resources/Attachaments/Pasted image 20231115212607.jpg",
-    "2.resources/Attachaments/Pasted image 20231115212606.jpg",
-    "2.resources/Attachaments/Pasted image 20231115100540.jpg",
-    "2.resources/Attachaments/Pasted image 20231110120543.png",
-    "2.resources/Attachaments/Pasted image 20231028200013.png",
-    "2.resources/Attachaments/Pasted image 20231028195923.png"
+    "02-resources/Attachaments/ 2023-11-10.excalidraw.png",
+    "README.md",
+    "00-projects/OpenClaw e Ollama locali in 27 minuti - YouTube.md",
+    "01-areas/Libri da leggere.md",
+    "00-projects/Dataview/Guida su dataview.md",
+    "00-projects/Ciclatore di chiavi gemini.md",
+    "00-projects/Come usare Claude Code GRATIS per sempre (installazione di Ollama) - YouTube.md",
+    "00-projects/How to win friends and influence people.md",
+    "00-projects/Porto sepolto.md",
+    "00-projects/Table.base",
+    "gemini_rotator.py",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 7 Decameron.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 6 Decameron.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 5 Decameron.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 4 Decameron.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 3 Decameron.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 2 Decameron.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Novella 1 Decameron.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio/Decameron.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/aaaaa link per interrogazione.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Umanesimo.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Ripasso per interrogazione italiano.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Petrarca.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Canzoniere.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Canzone di Bacco.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Canzone all'Italia di Francesco Petrarca.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio",
+    "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 7.md",
+    "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda.../Principe 25-26.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio",
+    "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda...",
+    "03-archives/Verifiche-Interrogazioni",
+    "03-archives/Tex cheatsheet.pdf",
+    "03-archives/Libri",
+    "03-archives/4dizionario",
+    "03-archives",
+    "02-resources/Attachaments/Pasted image 20231115212611.jpg",
+    "02-resources/Attachaments/Pasted image 20231115212610.jpg",
+    "02-resources/Attachaments/Pasted image 20231115212609.jpg",
+    "02-resources/Attachaments/Pasted image 20231115212607.jpg",
+    "02-resources/Attachaments/Pasted image 20231115212606.jpg",
+    "02-resources/Attachaments/Pasted image 20231115100540.jpg",
+    "02-resources/Attachaments/Pasted image 20231028200013.png",
+    "02-resources/Attachaments/Pasted image 20231028195923.png",
+    "02-resources/Attachaments/Pasted image 20231024175011.png",
+    "02-resources/Attachaments/Pasted image 20231024173531.jpg"
   ]
 }
