@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b3db3bb39266b56",
+        "id": "bba83beb28aae031",
         "type": "tabs",
         "children": [
           {
-            "id": "171a3ecb58e2c2ae",
+            "id": "d382641d025ec372",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "02-resources/Attachaments/ 2023-11-10.excalidraw.png"
-              },
-              "icon": "lucide-image",
-              "title": "2023-11-10.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -92,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02-resources/Attachaments/ 2023-11-10.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for  2023-11-10.excalidraw"
             }
           },
           {
@@ -110,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02-resources/Attachaments/ 2023-11-10.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from  2023-11-10.excalidraw"
             }
           },
           {
@@ -130,23 +130,8 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "164fd2a17a0da4ec",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "outline"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +148,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "e21a5ae5ca8f2ede",
+  "active": "4ae16d26c113d0b1",
   "lastOpenFiles": [
     "02-resources/Attachaments/ 2023-11-10.excalidraw.png",
     "README.md",
