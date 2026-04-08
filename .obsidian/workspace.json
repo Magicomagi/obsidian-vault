@@ -42,33 +42,6 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "8bd9db3d70847e99",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-ghost",
-              "title": "search"
-            }
-          },
-          {
-            "id": "8aa061dc0a923f3e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "bookmarks"
-            }
           }
         ]
       }
