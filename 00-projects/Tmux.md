@@ -19,3 +19,20 @@ tags:
 - `Ctrl + b` poi `o` : Passa al pannello successivo.
 - `Ctrl + b` poi `x` : Chiudi il pannello corrente.
 - `Ctrl + b` poi `z` : Ingrandisci/Rimpicciolisci il pannello (Zoom).
+
+### 2. Gestione Finestre (Tabs)
+
+- `Ctrl + b` poi `c` : Crea una nuova finestra.
+    
+- `Ctrl + b` poi `n` : Vai alla finestra successiva.
+    
+- `Ctrl + b` poi `p` : Vai alla finestra precedente.
+    
+- `Ctrl + b` poi `0...9` : Vai a una finestra specifica per numero.
+    
+
+### 3. Sessioni e Distacco
+
+- `Ctrl + b` poi `d` : **Detach** (esci dalla sessione lasciandola attiva).
+    
+- `Ctrl + b` poi `s` : Mostra l'elenco delle sessioni per passare da una all'altra.
