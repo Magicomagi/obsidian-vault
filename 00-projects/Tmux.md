@@ -9,3 +9,17 @@ tags:
 > **tmux** è un terminal multiplexer: permette di gestire più sessioni, finestre e pannelli in un'unica finestra del terminale. I processi rimangono attivi anche se chiudi la finestra o ti disconnetti.
 
 `tmux`Avvia una nuova sessione
+`tmux ls`Elenca tutte le sessioni attive
+`tmux attach -t nome`Riconnettiti a una sessione specifica
+
+### 1. Gestione Pannelli (Splits)
+
+- `Ctrl + b` poi `%` : Dividi in verticale.
+    
+- `Ctrl + b` poi `"` : Dividi in orizzontale.
+    
+- `Ctrl + b` poi `o` : Passa al pannello successivo.
+    
+- `Ctrl + b` poi `x` : Chiudi il pannello corrente.
+    
+- `Ctrl + b` poi `z` : Ingrandisci/Rimpicciolisci il pannello (Zoom).
