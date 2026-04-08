@@ -15,7 +15,7 @@
               "state": {
                 "file": "00-projects/Interrogazione biomolocole.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -30,7 +30,7 @@
               "state": {
                 "file": "00-projects/Montale.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -45,7 +45,7 @@
               "state": {
                 "file": "00-projects/Il male di vivere.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",

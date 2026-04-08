@@ -12,3 +12,6 @@ il bene sta nell'assenza del dolore, violenza, che è anche linguistica, non ci 
 Il martellamento dato da "era", che non ti da via di scampo
 
 il collegamento tra le cose positive è dato dal "e" 
+i momenti felici sono delle epifanie, delle rivelazioni che durano solo in quel momento
+
+**2 quartina**: rima incatenata, 
