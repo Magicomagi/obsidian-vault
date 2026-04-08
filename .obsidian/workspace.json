@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "carboidrati"
             }
+          },
+          {
+            "id": "ab408d1ff47dfb05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-projects/Tmux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tmux"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-projects/carboidrati.md",
+                "file": "00-projects/Tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for carboidrati"
+              "title": "Backlinks for Tmux"
             }
           },
           {
@@ -112,8 +128,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ae16d26c113d0b1",
+  "active": "ab408d1ff47dfb05",
   "lastOpenFiles": [
+    "00-projects/Tmux.md",
+    "00-projects/carboidrati.md",
     "00-projects/anfipatici.md",
     "00-projects/acidi grassi.md",
     "02-resources/Soldi/Fare soldi con un servizio.md",
@@ -133,14 +151,12 @@
     "00-projects/gruppo carbossilico.md",
     "00-projects/fosfolipidi.md",
     "00-projects/esterificazione.md",
-    "00-projects/carboidrati.md",
     "00-projects/Montale.md",
     "00-projects/Interrogazione biomolocole.md",
     "00-projects/Il male di vivere.md",
     "02-resources/Attachaments/ 2023-11-10.excalidraw.png",
     "README.md",
     "00-projects/OpenClaw e Ollama locali in 27 minuti - YouTube.md",
-    "01-areas/Libri da leggere.md",
     "00-projects/Table.base",
     "gemini_rotator.py",
     "03-archives/Verifiche-Interrogazioni/Interrogazione su Petrarca e Boccaccio/Boccaccio",
