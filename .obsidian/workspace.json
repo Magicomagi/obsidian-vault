@@ -132,8 +132,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           }
         ]
