@@ -2,7 +2,7 @@
 tags:
   - AI
   - informatica
-date: 03-04-2026
+date: 2026-04-03
 ---
 [[gemini_rotator.py]]
 

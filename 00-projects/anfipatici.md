@@ -1,5 +1,5 @@
 ---
 tags: chimica
-date: 08-04-2026
+date: 2026-04-08
 ---
 si ha una parte idrofoba e una idrofila

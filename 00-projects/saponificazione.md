@@ -1,6 +1,6 @@
 ---
 tags: chimica
-date: 08-04-2026
+date: 2026-04-08
 ---
 1. i [[trigliceridi]] reagiscono con le basi forti
 2. si legano il [[glicerolo]] con i sali di acidi carbonilici

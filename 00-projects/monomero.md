@@ -1,5 +1,5 @@
 ---
 tags: chimica
-date: 08-04-2026
+date: 2026-04-08
 ---
 È qualsiasi molecola base, che attraverso la [[polimerizzazione]] crea le unità ripetitive che formano polimeri

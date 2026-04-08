@@ -1,6 +1,6 @@
 ---
 tags: chimica
-date: 08-04-2026
+date: 2026-04-08
 ---
 In particolare guardiamo i **disaccaridi**
 - i due monosaccaridi legati da un [[legame covalente glicosidico]]

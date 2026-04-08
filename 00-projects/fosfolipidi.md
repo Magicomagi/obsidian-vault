@@ -1,6 +1,6 @@
 ---
 tags: chimica
-date: 08-04-2026
+date: 2026-04-08
 ---
 sono molecole [anfipatiche](anfipatici), con code apolari e teste polari
 costituiscono la membrana cellulare  

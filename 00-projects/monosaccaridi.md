@@ -1,6 +1,6 @@
 ---
 tags: chimica
-date: 08-04-2026
+date: 2026-04-08
 ---
 - hanno configurazione D^[[isomeria ottica]] 
 - hanno da 3 a 5 Carboni

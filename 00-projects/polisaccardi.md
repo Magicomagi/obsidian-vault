@@ -1,6 +1,6 @@
 ---
 tags: chimica
-date: 08-04-2026
+date: 2026-04-08
 ---
 Sono costituiti da 10 a migliaia monosaccaridi legati da [legami glicosidici]([[Legame covalente polare]]) 
 ## Suddivisione
