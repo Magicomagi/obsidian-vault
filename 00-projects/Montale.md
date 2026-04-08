@@ -13,5 +13,5 @@ lessico con terminicomuni e rari(croco), impara i termini tecnici, come faceva [
 Impara questo mischio di termini attraverso l'esempio di [[Gozzano]](camice-nietzsche). 
 Stle diverso, ma sostenuto.
 ## Temi
-"Il male di vivere" semre di [[ossi di seppia]]. 
-2 strofe da 4 versi=>quartine, costruite per opposizione
+"[[Il male di vivere]]" 
+
