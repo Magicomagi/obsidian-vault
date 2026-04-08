@@ -26,5 +26,13 @@
       "key": "P"
     }
   ],
-  "workspace:close-window": []
+  "workspace:close-window": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:delete-paragraph": []
 }
