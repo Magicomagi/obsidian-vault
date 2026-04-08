@@ -15,3 +15,4 @@ il collegamento tra le cose positive è dato dal "e"
 i momenti felici sono delle epifanie, delle rivelazioni che durano solo in quel momento
 
 **2 quartina**: rima incatenata, 
+Non regolarmente con il primo verso della quartina, ma con il primo verso in assoluto
