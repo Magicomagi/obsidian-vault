@@ -3,8 +3,7 @@ tags:
   - italiano
   - letteratura
   - montale
-date:
-  "{ date }":
+date: 2026-04-08
 ---
 ## Stile
 cacofonica-> cio che utiilzza disarmonie, rumori, 
