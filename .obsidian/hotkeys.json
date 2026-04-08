@@ -8,5 +8,23 @@
       "key": "Delete"
     }
   ],
-  "app:open-help": []
+  "app:open-help": [],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "markdown:add-metadata-property": [],
+  "markdown:clear-metadata-properties": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "workspace:close-window": []
 }
