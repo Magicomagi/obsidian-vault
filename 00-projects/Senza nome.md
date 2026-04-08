@@ -1,4 +1,4 @@
 ---
 tags: chimica
-date: {{date}}
+date: 08-04-2026
 ---
