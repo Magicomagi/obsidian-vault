@@ -9,14 +9,6 @@
     }
   ],
   "app:open-help": [],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "A"
-    }
-  ],
   "markdown:add-metadata-property": [],
   "markdown:clear-metadata-properties": [
     {
@@ -34,5 +26,30 @@
       "key": "Q"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "A"
+    }
+  ]
 }
