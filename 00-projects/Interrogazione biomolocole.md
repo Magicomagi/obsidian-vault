@@ -4,8 +4,9 @@ date: 08-04-2026
 ---
 
 ## Biochimica
-studia la struttura^[[[isomeria ottica]]] e le trasformazioni^[[[metabolismo]]] delle biomolecole:
+studia la struttura^[[[isomeria ottica]]] e le trasformazioni^[[[[metabolismo]([[[]()]()]())]]] delle biomolecole:
 - [[carboidrati]]
+- [[lipidi]]
 - [[proteine]]
 - [[acidi nucleici]]
 le macromolecole sono lunghe catene che formano polimeri
