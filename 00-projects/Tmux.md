@@ -15,11 +15,7 @@ tags:
 ### 1. Gestione Pannelli (Splits)
 
 - `Ctrl + b` poi `%` : Dividi in verticale.
-    
 - `Ctrl + b` poi `"` : Dividi in orizzontale.
-    
 - `Ctrl + b` poi `o` : Passa al pannello successivo.
-    
 - `Ctrl + b` poi `x` : Chiudi il pannello corrente.
-    
 - `Ctrl + b` poi `z` : Ingrandisci/Rimpicciolisci il pannello (Zoom).
