@@ -68,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-projects/carboidrati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,7 +78,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for carboidrati"
             }
           },
           {
@@ -94,8 +95,7 @@
               "title": "Outgoing links from carboidrati"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +112,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6b08070b139525c",
+  "active": "4ae16d26c113d0b1",
   "lastOpenFiles": [
     "00-projects/anfipatici.md",
     "00-projects/acidi grassi.md",
