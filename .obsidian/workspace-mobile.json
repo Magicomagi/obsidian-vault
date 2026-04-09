@@ -11,10 +11,15 @@
             "id": "ce72cd54a6e9a0b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-resources/Attachaments/toggle_editor.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "toggle_editor"
             }
           }
         ]
@@ -94,6 +99,7 @@
   },
   "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
+    "02-resources/Attachaments/toggle_editor.md",
     "00-projects/Untitled.md",
     "00-projects/Untitled 1.md",
     "00-projects/Untitled 2.md",
@@ -120,7 +126,6 @@
     "02-resources/templates/Fisica.excalidraw.md",
     "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
     "00-projects/How to win friends and influence people.md",
-    "00-projects/Interrogazione biomolecole/lipidi.md",
     "00-projects/Interrogazione biomolecole",
     "03-archives/Tex cheatsheet.pdf",
     "02-resources/Attachaments/IMG_2902.jpeg",
