@@ -20,5 +20,6 @@
   "spellcheck": false,
   "tabSize": 2,
   "trashOption": "local",
-  "livePreview": false
+  "livePreview": false,
+  "showIndentGuide": false
 }

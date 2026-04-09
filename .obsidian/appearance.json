@@ -4,5 +4,8 @@
   "accentColor": "",
   "slidingSidebar": true,
   "floatingNavigation": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": false,
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Menlo"
 }
