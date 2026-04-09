@@ -29,7 +29,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
-    ""
+    "02-resources/templates/toggle_editor.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1
