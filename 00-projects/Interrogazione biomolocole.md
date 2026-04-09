@@ -9,6 +9,7 @@ studia la struttura^[[[isomeria ottica]]] e le trasformazioni^[[[metabolismo]]] 
 - [[lipidi]]
 - [[proteine]]
 - [[acidi nucleici]]
+
 le macromolecole sono lunghe catene che formano polimeri
 [[Gruppi funzionali]]
 ![](https://i.imgur.com/c6dOl68.jpeg)

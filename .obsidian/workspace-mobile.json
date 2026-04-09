@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-projects/amminoacidi.md",
+                "file": "00-projects/ATP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "amminoacidi"
+              "title": "ATP"
             }
           }
         ]
@@ -78,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-projects/amminoacidi.md",
+            "file": "00-projects/Interrogazione biomolocole.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,12 +118,23 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "36c2641531f21b2d",
+  "active": "5fa7d1088f28e2a9",
   "lastOpenFiles": [
+    "00-projects/ATP.md",
+    "00-projects/metabolismo.md",
     "00-projects/Interrogazione biomolocole.md",
-    "00-projects/amminoacidi.md",
-    "02-resources/Attachaments/IMG_2902.jpeg",
+    "00-projects/isomeria ottica.md",
+    "00-projects/Gruppi funzionali.md",
+    "00-projects/gruppo amminico.md",
+    "00-projects/gruppo ossidrile.md",
+    "00-projects/acidi nucleici.md",
+    "00-projects/rna.md",
+    "00-projects/nucleotidi.md",
+    "00-projects/dna.md",
     "00-projects/proteine.md",
+    "00-projects/amminoacidi.md",
+    "00-projects/reazione di disidratazione.md",
+    "02-resources/Attachaments/IMG_2902.jpeg",
     "00-projects/acidi grassi.md",
     "00-projects/Dataview/Guida su dataview.md",
     "00-projects/Montale.md",
@@ -136,16 +147,6 @@
     "00-projects/anfipatici.md",
     "00-projects/saponificazione.md",
     "00-projects/[[saponi]].md",
-    "00-projects/trigliceridi.md",
-    "00-projects/carboidrati.md",
-    "00-projects/polisaccardi.md",
-    "00-projects/monomero.md",
-    "00-projects/polimerizzazione.md",
-    "03-archives/Verifiche-Interrogazioni/Interrogazione di storia.md",
-    "00-projects/esterificazione.md",
-    "00-projects/instaturi.md",
-    "00-projects/saturi.md",
-    "00-projects/[[gruppo.md",
     "01-areas/Scuola/Storia/Capitoli libri di storia/introduzione libro di storia.pdf",
     "01-areas/Scuola/Storia/Capitoli libri di storia/storia primo capitolo 2.pdf",
     "01-areas/Scuola/Storia/Capitoli libri di storia",
