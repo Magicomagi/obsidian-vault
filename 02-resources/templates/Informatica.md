@@ -1,5 +1,4 @@
 ---
 tags: informatica
-date:
-  "{ date }":
+date: {{date}}
 ---

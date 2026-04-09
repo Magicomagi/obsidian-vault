@@ -1,4 +1,4 @@
 ---
-tag:
+tags:
 date: {{date}}
 ---

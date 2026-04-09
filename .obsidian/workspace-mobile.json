@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "439cfc6223a9f1ba",
+        "id": "7f826cd4899c85ef",
         "type": "tabs",
         "children": [
           {
-            "id": "9092248ffad0915b",
+            "id": "3ca8b7f78fed90b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "03-archives/Switch from windows to mac.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Switch from windows to mac"
             }
           }
         ]
@@ -92,8 +97,25 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "9092248ffad0915b",
+  "active": "3ca8b7f78fed90b9",
   "lastOpenFiles": [
+    "03-archives/Table.base",
+    "03-archives/Apparato circolatorio.md",
+    "README.md",
+    "02-resources/Organizzazione Personale e Produttività.md",
+    "02-resources/templates/Storia.md",
+    "02-resources/templates/Daily note.md",
+    "02-resources/templates/Informatica.md",
+    "02-resources/templates/Italiano.md",
+    "02-resources/templates/New note.md",
+    "02-resources/templates/Matematica.excalidraw.md",
+    "02-resources/templates/Monthly note.md",
+    "02-resources/templates/Inglese.md",
+    "02-resources/templates/Filosofia.md",
+    "02-resources/templates/Fisica.excalidraw.md",
+    "02-resources/templates/Chimica.md",
+    "02-resources/templates/Arte.md",
+    "00-projects/Senza nome.md",
     "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
     "00-projects/How to win friends and influence people.md",
     "00-projects/Interrogazione biomolecole/lipidi.md",
@@ -103,23 +125,6 @@
     "00-projects/Interrogazione biomolecole/gruppo ossidrile.md",
     "00-projects/Interrogazione biomolecole/gruppo carbossilico.md",
     "00-projects/Interrogazione biomolecole/carboidrati.md",
-    "00-projects/Interrogazione biomolecole/polisaccardi.md",
-    "00-projects/Interrogazione biomolecole/oligosaccaridi.md",
-    "00-projects/Interrogazione biomolecole/monosaccaridi.md",
-    "00-projects/Interrogazione biomolecole/isomeria ottica.md",
-    "00-projects/Il male di vivere.md",
-    "00-projects/Montale.md",
-    "02-resources/Coding/Tmux.md",
-    "00-projects/Interrogazione biomolecole/monomero.md",
-    "00-projects/Interrogazione biomolecole/metabolismo.md",
-    "00-projects/Interrogazione biomolecole/piruvato.md",
-    "00-projects/Interrogazione biomolecole/saponi.md",
-    "00-projects/Interrogazione biomolecole/saponificazione.md",
-    "00-projects/Interrogazione biomolecole/trigliceridi.md",
-    "00-projects/Interrogazione biomolecole/legame covalente glicosidico.md",
-    "00-projects/Interrogazione biomolecole/instaturi.md",
-    "00-projects/Interrogazione biomolecole/idrolisi.md",
-    "00-projects/Interrogazione biomolecole/gruppo amminico.md",
     "00-projects/Interrogazione biomolecole",
     "03-archives/Tex cheatsheet.pdf",
     "02-resources/Attachaments/IMG_2902.jpeg",

@@ -1,5 +1,4 @@
 ---
 tags: storia
-date:
-  "{ date }":
+date: {{date}}
 ---

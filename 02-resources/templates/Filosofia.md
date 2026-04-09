@@ -1,5 +1,4 @@
 ---
 tags: filosofia
-date:
-  "{ date }":
+date:{{date}}
 ---

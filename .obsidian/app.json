@@ -20,5 +20,5 @@
   "spellcheck": false,
   "tabSize": 2,
   "trashOption": "local",
-  "livePreview": true
+  "livePreview": false
 }
