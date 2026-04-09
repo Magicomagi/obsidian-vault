@@ -91,7 +91,6 @@
     "hiddenItems": {
       "switcher:Apri selezione rapida": true,
       "graph:Apri vista grafo": true,
-      "templates:Inserisci modello": true,
       "command-palette:Apri riquadro comandi": true,
       "bases:Crea nuova Base": true,
       "omnisearch:Omnisearch": true,
