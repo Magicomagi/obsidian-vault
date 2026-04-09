@@ -79,6 +79,14 @@
     }
   ],
   "file-explorer:new-file": [],
+  "cmdr:macro-0": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
   "templater-obsidian:create-02-resources/templates/toggle_editor.md": [
     {
       "modifiers": [
