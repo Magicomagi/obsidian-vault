@@ -4,7 +4,7 @@ date: 2026-04-08
 ---
 
 ## Biochimica
-studia la struttura^[[[isomeria ottica]]] e le trasformazioni^[[[[metabolismo]([[[]()]()]())]]] delle biomolecole:
+studia la struttura^[[[isomeria ottica]]] e le trasformazioni^[[[metabolismo]]] delle biomolecole:
 - [[carboidrati]]
 - [[lipidi]]
 - [[proteine]]
