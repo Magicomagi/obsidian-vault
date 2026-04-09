@@ -1,4 +1,4 @@
 ---
 tags: arte
-date: {{date}}
+date: 
 ---

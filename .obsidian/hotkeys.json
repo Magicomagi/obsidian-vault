@@ -69,5 +69,14 @@
       ],
       "key": "F"
     }
-  ]
+  ],
+  "templater-obsidian:create-02-resources/templates/New note.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": []
 }
