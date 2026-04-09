@@ -47,7 +47,8 @@
   "file-explorer:move-file": [
     {
       "modifiers": [
-        "Meta"
+        "Ctrl",
+        "Mod"
       ],
       "key": "A"
     }
@@ -61,14 +62,6 @@
     }
   ],
   "editor:open-search": [],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
   "omnisearch:show-modal": [
     {
       "modifiers": [

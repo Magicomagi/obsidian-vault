@@ -2,7 +2,7 @@
 tags: chimica
 date: 2026-04-08
 ---
-- hanno configurazione D^[[isomeria ottica]] 
+- hanno configurazione D^[[[isomeria ottica]]] 
 - hanno da 3 a 5 Carboni
 - possono essere aldsi o chetosi
 le configurazioni più comuni sono quelle con:
