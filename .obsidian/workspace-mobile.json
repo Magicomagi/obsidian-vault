@@ -8,18 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fa7d1088f28e2a9",
+            "id": "9092248ffad0915b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00-Interrogazione biomolocole"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -97,10 +92,10 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "5fa7d1088f28e2a9",
+  "active": "9092248ffad0915b",
   "lastOpenFiles": [
-    "00-projects/How to win friends and influence people.md",
     "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
+    "00-projects/How to win friends and influence people.md",
     "00-projects/Interrogazione biomolecole/lipidi.md",
     "00-projects/Interrogazione biomolecole/acidi grassi.md",
     "00-projects/Interrogazione biomolecole/saturi.md",
