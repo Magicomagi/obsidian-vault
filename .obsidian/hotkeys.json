@@ -82,9 +82,9 @@
   "templater-obsidian:create-02-resources/templates/toggle_editor.md": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
-      "key": "Z"
+      "key": "D"
     }
   ]
 }
