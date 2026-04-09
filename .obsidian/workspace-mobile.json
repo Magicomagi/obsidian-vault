@@ -11,10 +11,15 @@
             "id": "ce72cd54a6e9a0b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-projects/Untitled 1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -52,6 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "00-projects/Untitled 1.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,9 +100,9 @@
   },
   "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
+    "00-projects/Untitled 1.md",
     "02-resources/templates/Storia.md",
     "00-projects/Senza nome.md",
-    "00-projects/Untitled 1.md",
     "02-resources/Organizzazione Personale e Produttività.md",
     "02-resources/templates/New note.md",
     "02-resources/templates/Italiano.md",
