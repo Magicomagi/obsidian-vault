@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-resources/Attachaments/toggle_editor.md",
+                "file": "02-resources/templates/toggle_editor.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
@@ -99,9 +99,9 @@
   },
   "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
-    "02-resources/Attachaments/toggle_editor.md",
     "00-projects/Untitled.md",
     "00-projects/Untitled 1.md",
+    "02-resources/templates/toggle_editor.md",
     "00-projects/Untitled 2.md",
     "02-resources/templates/toggle_editor.md",
     "00-projects/Untitled 3.md",
