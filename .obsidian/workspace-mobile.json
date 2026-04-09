@@ -37,8 +37,7 @@
               "title": "Untitled 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +112,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "f11ed35d5041ffa5",
+  "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
-    "02-resources/templates/toggle_editor.md",
     "00-projects/Untitled 2.md",
+    "02-resources/templates/toggle_editor.md",
     "00-projects/Untitled 3.md",
     "00-projects/Untitled 1.md",
     "02-resources/templates/Storia.md",
