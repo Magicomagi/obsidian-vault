@@ -13,47 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-projects/Dataview/Guida su dataview.md",
+                "file": "00-projects/Interrogazione biomolocole.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Guida su dataview"
-            }
-          },
-          {
-            "id": "739010e328e312be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-projects/Montale.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Montale"
-            }
-          },
-          {
-            "id": "722b2d0192c9b8c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-projects/Il male di vivere.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Il male di vivere"
+              "title": "Interrogazione biomolocole"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,10 +97,11 @@
       "omnisearch:Omnisearch": true
     }
   },
-  "active": "722b2d0192c9b8c9",
+  "active": "5fa7d1088f28e2a9",
   "lastOpenFiles": [
-    "00-projects/Montale.md",
+    "00-projects/acidi grassi.md",
     "00-projects/Dataview/Guida su dataview.md",
+    "00-projects/Montale.md",
     "00-projects/Il male di vivere.md",
     "00-projects/Interrogazione biomolocole.md",
     "00-projects/Senza nome.md",
@@ -144,7 +114,6 @@
     "00-projects/saponificazione.md",
     "00-projects/[[saponi]].md",
     "00-projects/trigliceridi.md",
-    "00-projects/acidi grassi.md",
     "00-projects/carboidrati.md",
     "00-projects/polisaccardi.md",
     "00-projects/monomero.md",
