@@ -1,4 +1,4 @@
 ---
-tags: arte
-date: 
+tR = tR.replace('DATE_SLOT', )
 ---
+<%* tp.file.cursor() %>
