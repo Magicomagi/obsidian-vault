@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "02-resources/templates",
+  "templates_folder": "",
   "templates_pairs": [],
   "trigger_on_file_creation": false,
   "auto_jump_to_cursor": true,
@@ -24,8 +24,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
-    "02-resources/templates/New note.md",
-    "02-resources/templates/toggle_editor.md"
+    "02-resources/templates/New note.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1
