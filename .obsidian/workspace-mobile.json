@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-projects/Untitled 1.md",
+                "file": "02-resources/templates/toggle_editor.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "toggle_editor"
             }
           }
         ]
@@ -99,9 +99,9 @@
   },
   "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
+    "00-projects/Untitled 1.md",
     "00-projects/Untitled 2.md",
     "02-resources/templates/toggle_editor.md",
-    "00-projects/Untitled 1.md",
     "02-resources/templates/Storia.md",
     "00-projects/Senza nome.md",
     "02-resources/Organizzazione Personale e Produttività.md",
