@@ -11,10 +11,12 @@
             "id": "e6b08070b139525c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "info(succ,err(rel,ass))"
             }
           }
         ]
@@ -63,6 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,7 +75,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for info(succ,err(rel,ass))"
             }
           },
           {
@@ -108,6 +111,9 @@
   },
   "active": "e6b08070b139525c",
   "lastOpenFiles": [
+    "00-projects/Verifica informatica successioni, err rel e ass/Calcolo numerico.md",
+    "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
+    "00-projects/Verifica informatica successioni, err rel e ass",
     "00-projects/carboidrati.md",
     "00-projects/Tmux.md",
     "seconda guerra mondiale.md",
@@ -133,8 +139,6 @@
     "00-projects/Interrogazione biomolecole/monomero.md",
     "00-projects/Interrogazione biomolecole/metabolismo.md",
     "00-projects/Interrogazione biomolecole/lipidi.md",
-    "00-projects/Interrogazione biomolecole/legame covalente glicosidico.md",
-    "00-projects/Interrogazione biomolecole/isomeria ottica.md",
     "00-projects/Interrogazione biomolecole",
     "02-resources/Attachaments/ 2023-11-10.excalidraw.png",
     "00-projects/Table.base",
@@ -144,8 +148,6 @@
     "03-archives/Verifiche-Interrogazioni/Int macchia, guiccia, balda...",
     "03-archives/Verifiche-Interrogazioni",
     "03-archives/Tex cheatsheet.pdf",
-    "03-archives/Libri",
-    "03-archives/4dizionario",
     "02-resources/Attachaments/Pasted image 20231115212611.jpg",
     "02-resources/Attachaments/Pasted image 20231115212610.jpg",
     "02-resources/Attachaments/Pasted image 20231115212609.jpg",
