@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-projects/Verifica informatica successioni, err rel e ass/Senza nome.md",
+                "file": "00-projects/Verifica informatica successioni, err rel e ass/Calcolo numerico.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Senza nome"
+              "title": "Calcolo numerico"
             }
           }
         ]
@@ -100,7 +100,7 @@
   "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
     "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
-    "00-projects/Verifica informatica successioni, err rel e ass/Senza nome.md",
+    "00-projects/Verifica informatica successioni, err rel e ass/Calcolo numerico.md",
     "00-projects/Verifica informatica successioni, err rel e ass",
     "00-projects/Untitled 1.md",
     "02-resources/templates/toggle_editor.md",

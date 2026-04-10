@@ -1,6 +1,7 @@
-# Riassunto — Fondamenti di Calcolo Numerico (Informatica)
-
------
+---
+tags: informatica
+date: 2026-04-10
+---
 
 ## 1. Definizioni fondamentali
 
