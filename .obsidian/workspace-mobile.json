@@ -11,10 +11,12 @@
             "id": "ce72cd54a6e9a0b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "pdf",
+              "state": {
+                "file": "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "info(succ,err(rel,ass))"
             }
           }
         ]
@@ -92,8 +94,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "5552ba097db4a674",
+  "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
+    "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
     "00-projects/Verifica informatica successioni, err rel e ass",
     "00-projects/Untitled 1.md",
     "02-resources/templates/toggle_editor.md",
@@ -130,7 +133,6 @@
     "01-areas/Scuola/Storia",
     "02-resources/Attachaments/Ink/Writing/2026.3.5 - 11.18am.writing",
     "02-resources/Attachaments/Ink/Drawing/2026.4.1 - 19.05pm.drawing",
-    "02-resources/Attachaments/Ink/Drawing/2026.4.1 - 19.03pm.drawing",
     "2.resources/Attachaments/IMG-20250830-WA0013.jpg",
     "2.resources/Attachaments/IMG_20230823_122112.jpg",
     "2.resources/Attachaments/ 2023-11-10.excalidraw.png",
