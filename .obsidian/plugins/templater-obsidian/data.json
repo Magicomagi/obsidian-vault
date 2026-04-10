@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "02-resources/templates",
   "templates_pairs": [],
   "trigger_on_file_creation": false,
   "auto_jump_to_cursor": true,
