@@ -1,7 +1,6 @@
 {
   "pinned": [
-    "omnisearch:show-modal",
-    "insert-template",
-    "graph:open"
+    "templater-obsidian:insert-templater",
+    "file-explorer:move-file"
   ]
 }
