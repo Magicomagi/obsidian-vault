@@ -11,6 +11,18 @@
             "id": "ce72cd54a6e9a0b8",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "info(succ,err(rel,ass))"
+            }
+          },
+          {
+            "id": "1ad00557c57f7f11",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "00-projects/Verifica informatica successioni, err rel e ass/Calcolo numerico.md",
@@ -41,7 +53,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Esplora risorse"
+          "title": "Files"
         }
       }
     ],
@@ -89,18 +101,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": true,
-      "graph:Apri vista grafo": true,
-      "command-palette:Apri riquadro comandi": true,
-      "bases:Crea nuova Base": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "omnisearch:Omnisearch": true,
       "templater-obsidian:Templater": true
     }
   },
   "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
-    "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
     "00-projects/Verifica informatica successioni, err rel e ass/Calcolo numerico.md",
+    "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
+    "seconda guerra mondiale.md",
     "00-projects/Verifica informatica successioni, err rel e ass",
     "00-projects/Untitled 1.md",
     "02-resources/templates/toggle_editor.md",
@@ -118,7 +131,6 @@
     "02-resources/templates/Daily note.md",
     "02-resources/templates/Arte.md",
     "02-resources/templates/Chimica.md",
-    "seconda guerra mondiale.md",
     "README.md",
     "03-archives/Switch from windows to mac.md",
     "03-archives/Table.base",
