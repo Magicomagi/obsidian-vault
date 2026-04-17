@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f9eb4741e18067ba",
+        "id": "53bae94efbfe02c0",
         "type": "tabs",
         "children": [
           {
@@ -13,13 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-projects/Verifica informatica successioni, err rel e ass/Calcolo numerico.md",
+                "file": "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Calcolo numerico"
+              "title": "00-Interrogazione biomolocole"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9eb4741e18067ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "667e94e349454384",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -57,7 +73,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-projects/Untitled 1.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,10 +112,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "ce72cd54a6e9a0b8",
+  "active": "667e94e349454384",
   "lastOpenFiles": [
-    "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
+    "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
     "00-projects/Verifica informatica successioni, err rel e ass/Calcolo numerico.md",
+    "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
     "00-projects/Verifica informatica successioni, err rel e ass",
     "00-projects/Untitled 1.md",
     "02-resources/templates/toggle_editor.md",
@@ -126,7 +142,6 @@
     "02-resources/templates/Matematica.excalidraw.md",
     "02-resources/templates/Monthly note.md",
     "02-resources/templates/Fisica.excalidraw.md",
-    "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
     "00-projects/Interrogazione biomolecole",
     "03-archives/Tex cheatsheet.pdf",
     "02-resources/Attachaments/IMG_2902.jpeg",
