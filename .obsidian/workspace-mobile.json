@@ -32,15 +32,12 @@
             "id": "667e94e349454384",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "ink_drawing-view",
               "state": {
-                "file": "00-projects/Senza nome.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
+                "file": "02-resources/Attachaments/Ink/Drawing/2026.4.17 - 9.02am.drawing"
               },
               "icon": "lucide-file",
-              "title": "Senza nome"
+              "title": "2026.4.17 - 9.02am"
             }
           }
         ]
@@ -78,7 +75,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
+            "file": "02-resources/Attachaments/Ink/Drawing/2026.4.17 - 9.02am.drawing",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,10 +115,15 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "ce72cd54a6e9a0b8",
+  "active": "667e94e349454384",
   "lastOpenFiles": [
-    "00-projects/Senza nome.md",
     "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
+    "02-resources/Attachaments/Ink/Drawing/2026.4.17 - 9.02am.drawing",
+    "00-projects/Senza nome.md",
+    "00-projects/Interrogazione biomolecole/esterificazione.md",
+    "00-projects/Interrogazione biomolecole/trigliceridi.md",
+    "00-projects/Interrogazione biomolecole/lipidi.md",
+    "02-resources/Attachaments/Ink/Drawing/2026.4.17 - 9.02am (2).drawing",
     "00-projects/Verifica informatica successioni, err rel e ass/Calcolo numerico.md",
     "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
     "00-projects/Verifica informatica successioni, err rel e ass",
@@ -145,17 +147,12 @@
     "03-archives/Switch from windows to mac.md",
     "03-archives/Table.base",
     "03-archives/Apparato circolatorio.md",
-    "02-resources/templates/Matematica.excalidraw.md",
-    "02-resources/templates/Monthly note.md",
-    "02-resources/templates/Fisica.excalidraw.md",
     "00-projects/Interrogazione biomolecole",
     "03-archives/Tex cheatsheet.pdf",
     "02-resources/Attachaments/IMG_2902.jpeg",
     "01-areas/Scuola/Storia/Capitoli libri di storia/introduzione libro di storia.pdf",
     "01-areas/Scuola/Storia/Capitoli libri di storia/storia primo capitolo 2.pdf",
     "01-areas/Scuola/Storia/Capitoli libri di storia",
-    "01-areas/Scuola/Storia",
-    "02-resources/Attachaments/Ink/Writing/2026.3.5 - 11.18am.writing",
     "2.resources/Attachaments/IMG-20250830-WA0013.jpg",
     "2.resources/Attachaments/IMG_20230823_122112.jpg",
     "2.resources/Attachaments/ 2023-11-10.excalidraw.png",
