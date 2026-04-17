@@ -32,10 +32,15 @@
             "id": "667e94e349454384",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-projects/Senza nome.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Senza nome"
             }
           }
         ]
@@ -73,6 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,8 +118,9 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "667e94e349454384",
+  "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
+    "00-projects/Senza nome.md",
     "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
     "00-projects/Verifica informatica successioni, err rel e ass/Calcolo numerico.md",
     "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
@@ -121,7 +128,6 @@
     "00-projects/Untitled 1.md",
     "02-resources/templates/toggle_editor.md",
     "00-projects/Untitled.md",
-    "00-projects/Senza nome.md",
     "00-projects/Untitled 2.md",
     "00-projects/Untitled 3.md",
     "02-resources/templates/Storia.md",
