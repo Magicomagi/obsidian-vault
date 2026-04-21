@@ -13,31 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
+                "file": "00-projects/Interrogazione biomolecole/enzimi.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "00-Interrogazione biomolocole"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f9eb4741e18067ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "667e94e349454384",
-            "type": "leaf",
-            "state": {
-              "type": "ink_drawing-view",
-              "state": {
-                "file": "02-resources/Attachaments/Ink/Drawing/2026.4.17 - 9.02am.drawing"
-              },
-              "icon": "lucide-file",
-              "title": "2026.4.17 - 9.02am"
+              "title": "enzimi"
             }
           }
         ]
@@ -75,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02-resources/Attachaments/Ink/Drawing/2026.4.17 - 9.02am.drawing",
+            "file": "00-projects/base azotata.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +76,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00-projects/proteine.md",
+            "file": "00-projects/Interrogazione biomolecole/reazione di disidratazione.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -115,9 +97,18 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "667e94e349454384",
+  "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
+    "00-projects/base azotata.md",
+    "00-projects/Dataview/nucleotidi.md",
+    "00-projects/Interrogazione biomolecole/acidi nucleici.md",
     "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
+    "00-projects/Interrogazione biomolecole/dna.md",
+    "00-projects/Interrogazione biomolecole/reazione di disidratazione.md",
+    "00-projects/Interrogazione biomolecole/amminoacidi.md",
+    "00-projects/Interrogazione biomolecole/proteine.md",
+    "00-projects/Interrogazione biomolecole/legame covalente glicosidico.md",
+    "00-projects/Interrogazione biomolecole/oligosaccaridi.md",
     "02-resources/Attachaments/Ink/Drawing/2026.4.17 - 9.02am.drawing",
     "00-projects/Senza nome.md",
     "00-projects/Interrogazione biomolecole/esterificazione.md",
@@ -138,15 +129,7 @@
     "02-resources/templates/Italiano.md",
     "02-resources/templates/Inglese.md",
     "02-resources/templates/Informatica.md",
-    "02-resources/templates/Filosofia.md",
-    "02-resources/templates/Daily note.md",
-    "02-resources/templates/Arte.md",
-    "02-resources/templates/Chimica.md",
-    "seconda guerra mondiale.md",
-    "README.md",
-    "03-archives/Switch from windows to mac.md",
     "03-archives/Table.base",
-    "03-archives/Apparato circolatorio.md",
     "00-projects/Interrogazione biomolecole",
     "03-archives/Tex cheatsheet.pdf",
     "02-resources/Attachaments/IMG_2902.jpeg",
