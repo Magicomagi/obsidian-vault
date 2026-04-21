@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-projects/Interrogazione biomolecole/acidi grassi.md",
+                "file": "00-projects/Interrogazione biomolecole/lipidi.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "acidi grassi"
+              "title": "lipidi"
             }
           }
         ]
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-projects/Interrogazione biomolecole/acidi grassi.md",
+            "file": "00-projects/Interrogazione biomolecole/lipidi.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -76,12 +76,24 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00-projects/Interrogazione biomolecole/reazione di disidratazione.md",
+            "file": "00-projects/Interrogazione biomolecole/lipidi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
           "icon": "links-going-out",
           "title": "Collegamenti in uscita"
+        }
+      },
+      {
+        "id": "3048f75454a9a308",
+        "type": "leaf",
+        "state": {
+          "type": "footnotes",
+          "state": {
+            "file": "00-projects/Interrogazione biomolecole/lipidi.md"
+          },
+          "icon": "lucide-file-signature",
+          "title": "Note a piè di pagina"
         }
       }
     ],
@@ -99,7 +111,9 @@
   },
   "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
+    "00-projects/Interrogazione biomolecole/acidi grassi.md",
     "00-projects/Interrogazione biomolecole/lipidi.md",
+    "00-projects/Interrogazione biomolecole/gruppo carbossilico.md",
     "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
     "00-projects/Interrogazione biomolecole/proteine.md",
     "00-projects/Interrogazione biomolecole/Glicolisi.md",
@@ -128,7 +142,6 @@
     "00-projects/Untitled.md",
     "00-projects/Untitled 2.md",
     "00-projects/Untitled 3.md",
-    "02-resources/templates/Storia.md",
     "03-archives/Table.base",
     "00-projects/Interrogazione biomolecole",
     "03-archives/Tex cheatsheet.pdf",
