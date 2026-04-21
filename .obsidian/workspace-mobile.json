@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-projects/Interrogazione biomolecole/enzimi.md",
-                "mode": "preview",
+                "file": "00-projects/Interrogazione biomolecole/piruvato.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "enzimi"
+              "title": "piruvato"
             }
           }
         ]
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-projects/base azotata.md",
+            "file": "00-projects/Interrogazione biomolecole/piruvato.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,6 +99,9 @@
   },
   "active": "ce72cd54a6e9a0b8",
   "lastOpenFiles": [
+    "00-projects/Interrogazione biomolecole/Glicolisi.md",
+    "00-projects/Interrogazione biomolecole/Respirazione cellulare.md",
+    "00-projects/Interrogazione biomolecole/enzimi.md",
     "00-projects/base azotata.md",
     "00-projects/Dataview/nucleotidi.md",
     "00-projects/Interrogazione biomolecole/acidi nucleici.md",
@@ -126,9 +129,6 @@
     "02-resources/templates/Storia.md",
     "02-resources/Organizzazione Personale e Produttività.md",
     "02-resources/templates/New note.md",
-    "02-resources/templates/Italiano.md",
-    "02-resources/templates/Inglese.md",
-    "02-resources/templates/Informatica.md",
     "03-archives/Table.base",
     "00-projects/Interrogazione biomolecole",
     "03-archives/Tex cheatsheet.pdf",
