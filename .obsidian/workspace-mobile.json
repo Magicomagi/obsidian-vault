@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-projects/Applicazioni biotecnologie per colore.md",
+                "file": "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/dna.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Applicazioni biotecnologie per colore"
+              "title": "dna"
             }
           },
           {
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-projects/base azotata.md",
+            "file": "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/dna.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,45 +158,45 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "78dedbc514d7a8f3",
+  "active": "72f7f1ea7b5a71f3",
   "lastOpenFiles": [
-    "00-projects/Definizione termini biotecnologie.md",
+    "README.md",
     "00-projects/Applicazioni biotecnologie per colore.md",
-    "00-projects/base azotata.md",
-    "00-projects/Dataview/nucleotidi.md",
-    "00-projects/Interrogazione biomolecole/acidi nucleici.md",
-    "00-projects/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
-    "00-projects/Interrogazione biomolecole/dna.md",
-    "00-projects/Interrogazione biomolecole/legame covalente glicosidico.md",
-    "00-projects/Interrogazione biomolecole/acidi grassi.md",
-    "00-projects/Interrogazione biomolecole/lipidi.md",
-    "00-projects/Interrogazione biomolecole/gruppo carbossilico.md",
-    "00-projects/Interrogazione biomolecole/proteine.md",
-    "00-projects/Interrogazione biomolecole/Glicolisi.md",
-    "00-projects/Interrogazione biomolecole/Respirazione cellulare.md",
-    "00-projects/Interrogazione biomolecole/piruvato.md",
+    "00-projects/Definizione termini biotecnologie.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/Glicolisi.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/isomeria ottica.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/saponi.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/cofattori.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/Gruppi funzionali.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/saturi.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/anfipatici.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/acidi nucleici.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/dna.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/reazione di disidratazione.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/proteine.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/carboidrati.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/acidi grassi.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/gruppo ossidrile.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/polimerizzazione.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/Ciclatore di chiavi gemini.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/trigliceridi.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/amminoacidi.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/00-Interrogazione biomolocole.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/ATP.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/instaturi.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/enzimi.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole/Respirazione cellulare.md",
+    "03-archives/Verifiche-Interrogazioni/Interrogazione biomolecole",
     "02-resources/Attachaments/Ink/Drawing/2026.4.21 - 11.30am.drawing",
-    "00-projects/Interrogazione biomolecole/enzimi.md",
-    "00-projects/Interrogazione biomolecole/reazione di disidratazione.md",
-    "00-projects/Interrogazione biomolecole/amminoacidi.md",
-    "00-projects/Interrogazione biomolecole/oligosaccaridi.md",
     "02-resources/Attachaments/Ink/Drawing/2026.4.17 - 9.02am.drawing",
-    "00-projects/Senza nome.md",
-    "00-projects/Interrogazione biomolecole/esterificazione.md",
-    "00-projects/Interrogazione biomolecole/trigliceridi.md",
     "02-resources/Attachaments/Ink/Drawing/2026.4.17 - 9.02am (2).drawing",
-    "00-projects/Verifica informatica successioni, err rel e ass/Calcolo numerico.md",
-    "00-projects/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
-    "00-projects/Verifica informatica successioni, err rel e ass",
-    "00-projects/Untitled 1.md",
-    "02-resources/templates/toggle_editor.md",
-    "00-projects/Untitled.md",
+    "03-archives/Verifiche-Interrogazioni/Verifica informatica successioni, err rel e ass/info(succ,err(rel,ass)).pdf",
+    "03-archives/Verifiche-Interrogazioni/Verifica informatica successioni, err rel e ass",
     "03-archives/Table.base",
     "00-projects/Interrogazione biomolecole",
     "03-archives/Tex cheatsheet.pdf",
     "02-resources/Attachaments/IMG_2902.jpeg",
     "01-areas/Scuola/Storia/Capitoli libri di storia/introduzione libro di storia.pdf",
-    "01-areas/Scuola/Storia/Capitoli libri di storia/storia primo capitolo 2.pdf",
     "2.resources/Attachaments/IMG-20250830-WA0013.jpg",
     "2.resources/Attachaments/IMG_20230823_122112.jpg",
     "2.resources/Attachaments/ 2023-11-10.excalidraw.png",
